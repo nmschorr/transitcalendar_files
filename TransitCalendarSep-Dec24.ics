@@ -1,0 +1,5267 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Transit Calendar
+X-WR-CALDESC:visit transitcalendar.com
+VERSION:2.0
+PRODID:-//Schorr Media//transitcalendar.com//EN
+CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Jupiter\nMentally pushing the limits -- overassimilation. Interest in learning and travel. Overconfident judgments. Opinions.
+DTEND:20241118T085400Z
+DTSTART:20241118T085400Z
+SUMMARY:Mercury Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:rb0vr7d93h3hohmh37u58gb5ag@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241202T154601Z
+DTSTART:20241202T154601Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:v57j0ired46uqi2e8pvkkvkk68@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241124T110300Z
+DTSTART:20241124T110300Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:6f1oprngq47dn0ef9q3ta8cl8g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241013T110700Z
+DTSTART:20241013T110700Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:762sve624u507003u84b02f4vg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241225T154400Z
+DTSTART:20241225T154400Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:c26oa0f8klfnpvjdgmqfph914s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241125T221800Z
+DTSTART:20241125T221800Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:1r81q2kt42frc6a1u21mthkjv0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Enters Libra - Time for diplomacy. Seek peace\, harmony and beauty. Socialize with loved ones.
+DTEND:20240922T124300Z
+DTSTART:20240922T124300Z
+SUMMARY:Sun Enters Libra
+TRANSP:TRANSPARENT
+UID:ohf0154k1s2mjivkr5in841ssg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241017T112600Z
+DTSTART:20241017T112600Z
+SUMMARY:Full Moon - 24 Aries
+TRANSP:TRANSPARENT
+UID:i01v4b2fpqg69e4minu5oehii4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240920T083801Z
+DTSTART:20240920T083801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:dddloh4rsdvmmv8kj6kvvvkkk8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241223T162100Z
+DTSTART:20241223T162100Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:jmfmlrarl8u5jh262t0v9uehk4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+DTEND:20240924T144900Z
+DTSTART:20240924T144900Z
+SUMMARY:Moon Enters Cancer
+TRANSP:TRANSPARENT
+UID:rva46o0kvsaeiaoricn30i0of8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+DTEND:20241227T194600Z
+DTSTART:20241227T194600Z
+SUMMARY:Moon Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:pvnc4dgu22moq5a1ofpe3pn850@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:kjgra8i8abhcmt0c7bthv76d64@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Jupiter\nFollow your bliss. Now is the time to discover your true heart's desire. This could be a person\, a vocation\, or an artistic hobby. Enjoy!
+DTEND:20240915T053400Z
+DTSTART:20240915T053400Z
+SUMMARY:Venus Trine Jupiter
+TRANSP:TRANSPARENT
+UID:7t60t6j7lgi12uo4593hd2qfro@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mars\nCourage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241120T221500Z
+DTSTART:20241120T221500Z
+SUMMARY:Moon Conjunct Mars
+TRANSP:TRANSPARENT
+UID:i59or88mcthcnh1ra83kipt2o4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+DTEND:20240918T092300Z
+DTSTART:20240918T092300Z
+SUMMARY:Moon Enters Aries
+TRANSP:TRANSPARENT
+UID:0dku03pe8i1l1q3gttes83rf60@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241204T230900Z
+DTSTART:20241204T230900Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:gkc21m56njfjg1bdov2ckg84kg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241111T131600Z
+DTSTART:20241111T131600Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:t6n9pjcihakvehn0npi8o7qvps@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Uranus\nAn exciting creative person or project suddenly comes to light creating a little tension. Your path is unpredictable. Go with the flow.
+DTEND:20240920T173500Z
+DTSTART:20240920T173500Z
+SUMMARY:Venus Quincunx Uranus
+TRANSP:TRANSPARENT
+UID:dlf4cg18jkkua773nn8k4bum94@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241128T003900Z
+DTSTART:20241128T003900Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:kii9k6f9rfjd9oc784hvbu6a2s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Jupiter\nYou are confident and optimistic. Make the most of this sunny period to expand your horizons but don't go over the top.
+DTEND:20241111T110800Z
+DTSTART:20241111T110800Z
+SUMMARY:Sun Quincunx Jupiter
+TRANSP:TRANSPARENT
+UID:nf61n33gaaebnm4q8o8goggquc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20240925T175100Z
+DTSTART:20240925T175100Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:k6gtvue3kn18eev6ji041s00oc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20240909T150600Z
+DTSTART:20240909T150600Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:jq5ftrlmvnt9pgeoo9uujeotb0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+DTEND:20241130T115200Z
+DTSTART:20241130T115200Z
+SUMMARY:Moon Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:j5p4lbhn2cp47lfthkp0mgnqq8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241212T135500Z
+DTSTART:20241212T135500Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:jpqu5t6442n3uet4mqdm3n5e5o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241220T234500Z
+DTSTART:20241220T234500Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:43pij4vb6d92ug7p9pcs0ps1t8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Jupiter - You are confident and optimistic. Make the most of this sunny period to expand your horizons.
+DTEND:20241014T035100Z
+DTSTART:20241014T035100Z
+SUMMARY:Sun Trine Jupiter
+TRANSP:TRANSPARENT
+UID:bp0b5e74abeku5c7j91e2btop0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Pluto goes Stationary Direct
+DTEND:20241012T003100Z
+DTSTART:20241012T003100Z
+SUMMARY:Pluto goes Direct
+TRANSP:TRANSPARENT
+UID:v4srcrtbrvtbrbbc21v4gsiibg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+DTEND:20241024T052300Z
+DTSTART:20241024T052300Z
+SUMMARY:Moon Enters Leo
+TRANSP:TRANSPARENT
+UID:5otke2pkcdanp7ms9cbss5rk88@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20240904T160600Z
+DTSTART:20240904T160600Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:j4844paqmu7r7ur1mabsnpaobs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20240924T081300Z
+DTSTART:20240924T081300Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:ponk9kblqpj12kncutpt2cc7d0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Venus\nYour love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241020T002900Z
+DTSTART:20241020T002900Z
+SUMMARY:Moon Opposite Venus
+TRANSP:TRANSPARENT
+UID:jf0tjkt0ei22mucrr3fgn9n6g0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241021T072400Z
+DTSTART:20241021T072400Z
+SUMMARY:Moon Conjunct Jupiter
+TRANSP:TRANSPARENT
+UID:7asa2hh8995p96cq7b6b1of20k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241015T170900Z
+DTSTART:20241015T170900Z
+SUMMARY:Moon Conjunct Neptune
+TRANSP:TRANSPARENT
+UID:4kcame5ue57o15f7t1lb0fmio8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241207T000101Z
+DTSTART:20241207T000101Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:rkq3d7jj4lmqai88e2f8k8pb64@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+DTEND:20240909T172500Z
+DTSTART:20240909T172500Z
+SUMMARY:Moon Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:easbju4ohgkqjr0nffmkb4ehio@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+DTEND:20241004T112200Z
+DTSTART:20241004T112200Z
+SUMMARY:Moon Enters Scorpio
+TRANSP:TRANSPARENT
+UID:dvd2crm1pjc398nl6id0kog8bg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Venus\nYour love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241219T001000Z
+DTSTART:20241219T001000Z
+SUMMARY:Moon Opposite Venus
+TRANSP:TRANSPARENT
+UID:pl9dqnl1bflnibi1v3qtq7acug@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241004T104000Z
+DTSTART:20241004T104000Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:8plgpcsfh93q4bd379lpu2ikto@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20240916T050300Z
+DTSTART:20240916T050300Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:mcudg02b101cnbdcgki500aufk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+DTEND:20241114T065800Z
+DTSTART:20241114T065800Z
+SUMMARY:Moon Enters Taurus
+TRANSP:TRANSPARENT
+UID:0v40gb2h5lgkbi0qfdvsbqsqgc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241114T121200Z
+DTSTART:20241114T121200Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:4pe6jih1sl7un8infr45ql2ous@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20240918T222600Z
+DTSTART:20240918T222600Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:o0628rt79fug99v2555gc1o5jk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241026T080300Z
+DTSTART:20241026T080300Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:46ii2tke83ecumsbfamouh5p8k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241223T235100Z
+DTSTART:20241223T235100Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:uft05g36lngiks4q0npejp6af8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241024T044701Z
+DTSTART:20241024T044701Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:5p9u0gam2kd0lhgfoopp62h0e4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241107T181200Z
+DTSTART:20241107T181200Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:amn51ek00i4s6ibmqsjhqusdeo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241017T060800Z
+DTSTART:20241017T060800Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:jq3elgcs88fe7au516dp411cfc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241015T162800Z
+DTSTART:20241015T162800Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:aidg9oj572c2i8gbtjltq5in58@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241225T095100Z
+DTSTART:20241225T095100Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:a37b2mp6gtlj09ovun1regldfc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241023
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+SUMMARY:Moon in Cancer
+TRANSP:TRANSPARENT
+UID:rv53r39qshasekbc3saetddd24@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241117T124100Z
+DTSTART:20241117T124100Z
+SUMMARY:Moon Opposite Mercury
+TRANSP:TRANSPARENT
+UID:q3ao9rm67gi7aunj1pg5a43vbc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Neptune\nThis a time for dreaming rather than decision-making. Record your dreams and inspirational ideas. You may not have clarity right now\, but it will come later. 
+DTEND:20241020T154300Z
+DTSTART:20241020T154300Z
+SUMMARY:Sun Quincunx Neptune
+TRANSP:TRANSPARENT
+UID:lgcg443c2ae47enkgk92jfpf1o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20240922T095600Z
+DTSTART:20240922T095600Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:nttjqq87cp9qcocfb49gbe7nto@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241206T095200Z
+DTSTART:20241206T095200Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:7uv4gdssdqk7fsi23tgb20bur0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241129T185000Z
+DTSTART:20241129T185000Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:vgu0jft8jvjmg39c5udp1pe410@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20240918T090200Z
+DTSTART:20240918T090200Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:4jop6d577nisrvcqa57a3dmquc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Jupiter\nWant to party? Resist the urge to be distracted. Now is the time to discover your true heart's desire. This could be a person\, a vocation\, or an artistic hobby. 
+DTEND:20241126T180700Z
+DTSTART:20241126T180700Z
+SUMMARY:Venus Quincunx Jupiter
+TRANSP:TRANSPARENT
+UID:oc2p0g6l7p66851c5627066bag@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241002
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:b4n4ctohfvp9cobb215lf85g2c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+DTEND:20241026T154700Z
+DTSTART:20241026T154700Z
+SUMMARY:Moon Enters Virgo
+TRANSP:TRANSPARENT
+UID:qttvtehujpiu76m34b1d9abh5k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241223T035900Z
+DTSTART:20241223T035900Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:7cv9td1l6fh5g3iihl8f163edo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Square Pluto\nYour interactions with others may be intense right now. Express yourself honestly and then step back and allow others to discover their truth.
+DTEND:20240922T211400Z
+DTSTART:20240922T211400Z
+SUMMARY:Venus Square Pluto
+TRANSP:TRANSPARENT
+UID:e6ngnbdlvfkde1uk75ke1ohais@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+DTEND:20241009T093800Z
+DTSTART:20241009T093800Z
+SUMMARY:Moon Enters Capricorn
+TRANSP:TRANSPARENT
+UID:e40hmpnguic2u5s66c5fdeuil4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241220T051901Z
+DTSTART:20241220T051901Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:9ie0be8j37j7l2vigebculmpps@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241117T035100Z
+DTSTART:20241117T035100Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:achdtsrc40s3dhuacsbc2sbe4s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Enters Capricorn - Command respect. Stabilize your life. Build firm foundations. Climb those mountains.
+DTEND:20241221T092000Z
+DTSTART:20241221T092000Z
+SUMMARY:Sun Enters Capricorn
+TRANSP:TRANSPARENT
+UID:g8co6gjcgpr495pa0dsao1tj3k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241106
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:87a93nrab67n5i052h0ugjm2fk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Jupiter\nMentally pushing the limits -- overassimilation. Interest in learning and travel. Overconfident judgments. Opinions.
+DTEND:20241204T101500Z
+DTSTART:20241204T101500Z
+SUMMARY:Mercury Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:ci0227jqlf6c11ok762ic17kbo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20240918T071000Z
+DTSTART:20240918T071000Z
+SUMMARY:Moon Conjunct Neptune
+TRANSP:TRANSPARENT
+UID:istsaj3ae8hav739inlj4s5tv0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mars\nAvoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241010T222100Z
+DTSTART:20241010T222100Z
+SUMMARY:Moon Opposite Mars
+TRANSP:TRANSPARENT
+UID:k81skcai0eie5l4osuq1f0pl3o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241215T090100Z
+DTSTART:20241215T090100Z
+SUMMARY:Full Moon - 23 Gemini
+TRANSP:TRANSPARENT
+UID:71sfa2s2kgljktqoccasrinfcc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+DTEND:20241021T224900Z
+DTSTART:20241021T224900Z
+SUMMARY:Moon Enters Cancer
+TRANSP:TRANSPARENT
+UID:dhkudkgb5nct43r5dgprn00dpk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241213T123801Z
+DTSTART:20241213T123801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:ef879i55261fj48s6ahhnrete8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+DTEND:20241011T163000Z
+DTSTART:20241011T163000Z
+SUMMARY:Moon Enters Aquarius
+TRANSP:TRANSPARENT
+UID:dosak446bd9d0rh43jtom5420o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Jupiter\nGood judgment. Taking in the full picture. Speculative thought. Positive thinking. Interest in learning. Teaching.
+DTEND:20241008T122200Z
+DTSTART:20241008T122200Z
+SUMMARY:Mercury Trine Jupiter
+TRANSP:TRANSPARENT
+UID:9pa81hipggcmll86mvp1mq18s8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241222T132600Z
+DTSTART:20241222T132600Z
+SUMMARY:Moon Opposite Neptune
+TRANSP:TRANSPARENT
+UID:6g3rcvcc2u81rdeorc9c355290@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241229T233400Z
+DTSTART:20241229T233400Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:ctn22bdqk0916jkeekh1m96tl0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Pluto Enters Capricorn - It is time to transform old structures into new and enduring ones.
+DTEND:20240902T000700Z
+DTSTART:20240902T000700Z
+SUMMARY:Pluto Enters Capricorn
+TRANSP:TRANSPARENT
+UID:cdam0c9bcciv8q9ih9gthl97dc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241011T015700Z
+DTSTART:20241011T015700Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:g90mqqhn6ma273cfhfos4ji3t4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241216
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+SUMMARY:Moon in Cancer
+TRANSP:TRANSPARENT
+UID:2e63h50pdac1s82sief2j06fo4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241008
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:43g8gvbve5ak3t2ciihkvbbj1o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241213T181400Z
+DTSTART:20241213T181400Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:1cl07hin5lv7dj5jujlnbhungg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241230T222600Z
+DTSTART:20241230T222600Z
+SUMMARY:New Moon - 9 Capricorn
+TRANSP:TRANSPARENT
+UID:3vkbs3477a87qb63flmm15a33k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241117
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+SUMMARY:Moon in Gemini
+TRANSP:TRANSPARENT
+UID:2e4oeac67am3gl1jenn1ni9tbg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240926T221201Z
+DTSTART:20240926T221201Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:q5ka1h3u1l7hugf7cl4pjhdh7g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Uranus\nMental tension. Fixation on one point of view -- rigidity of mind. Radical views challenged. Interrupted communications.
+DTEND:20241030T221400Z
+DTSTART:20241030T221400Z
+SUMMARY:Mercury Opposite Uranus
+TRANSP:TRANSPARENT
+UID:2ndbp6cl4sk2eosdve2sp9kp68@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Uranus - Life is exciting. You are keen to make changes and find inventive ways to implement new habits. 
+DTEND:20240919T140400Z
+DTSTART:20240919T140400Z
+SUMMARY:Sun Trine Uranus
+TRANSP:TRANSPARENT
+UID:eeik7qf4577b491cfep63bk2a0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241027
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:l6t9s2mq5716csmhmpd8cg2lrs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Sextile Neptune\nFeel the need to escape to a romantic island getaway? Follow the urge even if it is limited to a luxurious bath or a trip to the local beach.
+DTEND:20241204T185100Z
+DTSTART:20241204T185100Z
+SUMMARY:Venus Sextile Neptune
+TRANSP:TRANSPARENT
+UID:4a716hndpkc8a70b71ik2vss24@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241217T130100Z
+DTSTART:20241217T130100Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:or2rk68pfrl0hauijfjpbi75qg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241111T225500Z
+DTSTART:20241111T225500Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:75sm098qmpf2rkh90nf8ol2o0g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+DTEND:20241205T042000Z
+DTSTART:20241205T042000Z
+SUMMARY:Moon Enters Aquarius
+TRANSP:TRANSPARENT
+UID:hc48dgpiigr1h81c8a97g414rg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241016
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+SUMMARY:Moon in Aries
+TRANSP:TRANSPARENT
+UID:e1e27nq904nrubf9ufbqk6jhd0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241028T233100Z
+DTSTART:20241028T233100Z
+SUMMARY:Moon Opposite Neptune
+TRANSP:TRANSPARENT
+UID:n72gltph5n2nad39l8ri4nc3lk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241110T002300Z
+DTSTART:20241110T002300Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:gighenkip02pum9fnf8phm5n0o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241206T063800Z
+DTSTART:20241206T063800Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:gkmi89nhnbnngl4lsa4oj2tvto@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241215T143100Z
+DTSTART:20241215T143100Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:iv92883q526i1v6lna788u2nts@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240928T160400Z
+DTSTART:20240928T160400Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:0eio3t98kb70ben4i33f3juu0g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20240914T053900Z
+DTSTART:20240914T053900Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:ifh2m8ohbh1hmg879oc8s0cn10@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+DTEND:20240907T051800Z
+DTSTART:20240907T051800Z
+SUMMARY:Moon Enters Scorpio
+TRANSP:TRANSPARENT
+UID:cuh1h7a7oef4ot7bh70n51hq38@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:fn0qonjfnk28bk0lne6fjh5dlg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20240904T103600Z
+DTSTART:20240904T103600Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:0u9gekblhobcnb82u09g3058pg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240916T050301Z
+DTSTART:20240916T050301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:90p92g87i50hmvof2dgfrgqaq4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241109
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+SUMMARY:Moon in Aquarius
+TRANSP:TRANSPARENT
+UID:gesg5m0qu6k9al05oohfubajo0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+SUMMARY:Moon in Aquarius
+TRANSP:TRANSPARENT
+UID:c1m7a70qbuok85v03at7ee4cqo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241005T222600Z
+DTSTART:20241005T222600Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:uj9j12qu3dgnlgc7lvjp5ftoog@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241124
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:6rbcqvh2fgp5a5jqvm1441sbps@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240906
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:2iu4okvp1geg9uhbf57dt5q610@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20240901T222100Z
+DTSTART:20240901T222100Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:4o4d026dnktc5fth2brl7uus7o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241123T012700Z
+DTSTART:20241123T012700Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:957mk982jn62eld9lbl44oonvk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241125T193100Z
+DTSTART:20241125T193100Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:2tv8hgiec2hac4sd0ca6rkcj64@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241204T182400Z
+DTSTART:20241204T182400Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:khfvq7s1d4p501uecunosnk070@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241111
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+SUMMARY:Moon in Pisces
+TRANSP:TRANSPARENT
+UID:hbs0k3n6ohuthaiiugek6cqdd8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Enters Libra - Diplomacy is required. Plan social events. Pursue artistic projects.
+DTEND:20240926T080800Z
+DTSTART:20240926T080800Z
+SUMMARY:Mercury Enters Libra
+TRANSP:TRANSPARENT
+UID:p4nf1ctcrtl7jd07e1thukl1uc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Neptune\nTry to avoid life changing decisions as you are quite impressionable right now.  Instead watch an inspirational film or visit an art gallery.
+DTEND:20240921T205300Z
+DTSTART:20240921T205300Z
+SUMMARY:Venus Quincunx Neptune
+TRANSP:TRANSPARENT
+UID:m15rmk3svoji2bnf0rb1sj03bc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241219T024000Z
+DTSTART:20241219T024000Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:la5jsq625j2m9imt6pehv9t7r8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241222T221700Z
+DTSTART:20241222T221700Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:mkcq4lmmekls33bv8p3dgeo89o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241111T013900Z
+DTSTART:20241111T013900Z
+SUMMARY:Moon Conjunct Saturn
+TRANSP:TRANSPARENT
+UID:aqiu8nprcpsktsn2hg7jdsccu4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240919
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+SUMMARY:Moon in Aries
+TRANSP:TRANSPARENT
+UID:u4pb3mjvonsav2vikki3dgp5ik@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241022
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+SUMMARY:Moon in Cancer
+TRANSP:TRANSPARENT
+UID:j7fpjhe4j57t00uuvb40cl0g1g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Enters Aquarius - Enjoy unconventional and odd relationships\, which give you the freedom to express your individuality. Enjoy your friends.
+DTEND:20241207T061300Z
+DTSTART:20241207T061300Z
+SUMMARY:Venus Enters Aquarius
+TRANSP:TRANSPARENT
+UID:1qofjcuroa8v287bcsjeo08cck@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241117T140600Z
+DTSTART:20241117T140600Z
+SUMMARY:Moon Conjunct Jupiter
+TRANSP:TRANSPARENT
+UID:1jp6salevsc3ifa6f0hhldkqoo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241024T080200Z
+DTSTART:20241024T080200Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:ip5m7apdkhvsi611nscomflihc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241010T185400Z
+DTSTART:20241010T185400Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:sdfs3m69bbi8c0eop4kija0elg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241231
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:mgl1274bv5drcidka6149sqmh0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241003
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:p3n9s8bfm6dqf30crhtf61rimc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Uranus\nLife is a little tense right now. Avoid willful behavior. Remain open to new possibilities and all will be revealed.
+DTEND:20240909T115800Z
+DTSTART:20240909T115800Z
+SUMMARY:Moon Opposite Uranus
+TRANSP:TRANSPARENT
+UID:hn7ftvbt5b4tjuf42558b0jmg0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241015T200001Z
+DTSTART:20241015T200001Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:5p67t66cg7papmcifedv34qkmo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241121
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:vpidi0tcse8n5mlp7boqlm66l0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241020T180600Z
+DTSTART:20241020T180600Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:ge3oq8d38t5qni3b3qv1b0b4p8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241201T204400Z
+DTSTART:20241201T204400Z
+SUMMARY:Moon Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:vfs8at1upcvuset13c9pokefbg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241213T123800Z
+DTSTART:20241213T123800Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:ra07pcjqc7abjofpueslfcalag@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241227T142300Z
+DTSTART:20241227T142300Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:1af9alu20r9sv1rhn6ql4uhva8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241118T040800Z
+DTSTART:20241118T040800Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:jja7gqbkrcvllnmuae67iv0vkc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241202T012800Z
+DTSTART:20241202T012800Z
+SUMMARY:Moon Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:jgt1ob9b9aegauev795u4enoto@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Trine Saturn - Discipline and endurance are required now. Resist the urge to control. Accomplish what you can. Any delays are likely to be fortuitous.
+DTEND:20240930T040600Z
+DTSTART:20240930T040600Z
+SUMMARY:Mars Trine Saturn
+TRANSP:TRANSPARENT
+UID:v4a5uflkiink2sbfspu9mlu364@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241219
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:dqkfndrlqc5235et4erb2cmc1g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241009T055301Z
+DTSTART:20241009T055301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:5gsv5l5ch18gd8a4frffbc89mo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Uranus\nLife is a little tense right now. Avoid willful behavior. Remain open to new possibilities and all will be revealed.
+DTEND:20241102T210500Z
+DTSTART:20241102T210500Z
+SUMMARY:Moon Opposite Uranus
+TRANSP:TRANSPARENT
+UID:dn9pe9r8r8tc9ajrg6b26bc818@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+DTEND:20241105T151700Z
+DTSTART:20241105T151700Z
+SUMMARY:Moon Enters Capricorn
+TRANSP:TRANSPARENT
+UID:9mst6k750qc8idtc9p33k73dmo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241229T200200Z
+DTSTART:20241229T200200Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:fu19it9gf0qas6306peek939fs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241101T124600Z
+DTSTART:20241101T124600Z
+SUMMARY:New Moon - 9 Scorpio
+TRANSP:TRANSPARENT
+UID:sllpbppkf6f44qkhufpov0sn88@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Sextile Mars\nDecisiveness. Mental assertiveness. Honesty. Practical solutions. Technical skills. Fast work\, rapid progress.
+DTEND:20240912T034100Z
+DTSTART:20240912T034100Z
+SUMMARY:Mercury Sextile Mars
+TRANSP:TRANSPARENT
+UID:hds3tqfh4rmgnibsp13lhq707g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241214T063900Z
+DTSTART:20241214T063900Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:vbto8ceobr8kf2ff96dgllne0c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241028T131500Z
+DTSTART:20241028T131500Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:h63fqtdck41b4utvpapl7dflic@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241112T020000Z
+DTSTART:20241112T020000Z
+SUMMARY:Moon Conjunct Neptune
+TRANSP:TRANSPARENT
+UID:sg3lh7il70p59apm4oq2mkr4cg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Uranus\nAn exciting creative person or project suddenly comes to light creating a little tension. Your path is unpredictable. Go with the flow.
+DTEND:20241108T022000Z
+DTSTART:20241108T022000Z
+SUMMARY:Venus Quincunx Uranus
+TRANSP:TRANSPARENT
+UID:r3jmahtp95npa61mcqji4k7e50@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20240922T074900Z
+DTSTART:20240922T074900Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:10rd1h3l5c4bv1tv1s6v4m5gb4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20240909T184900Z
+DTSTART:20240909T184900Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:u6mii8jdhetr2o3o2or6flb3k4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Saturn\nRational and logical thinking. Concentration and focus. Organization. Serious communication. Agreeable solitude.
+DTEND:20241022T063400Z
+DTSTART:20241022T063400Z
+SUMMARY:Mercury Trine Saturn
+TRANSP:TRANSPARENT
+UID:77k9dk1p4e7am4kuhfb1h58n78@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240923T223800Z
+DTSTART:20240923T223800Z
+SUMMARY:Moon Conjunct Jupiter
+TRANSP:TRANSPARENT
+UID:mbfv2f80tnig6ftsfjn2mthjmg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Pluto Enters Aquarius - Innovations abound. You make inspirational changes and new discoveries.
+DTEND:20241119T202900Z
+DTSTART:20241119T202900Z
+SUMMARY:Pluto Enters Aquarius
+TRANSP:TRANSPARENT
+UID:nfhe9mtdr0s52cb83gjvrcbg4o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241228T231400Z
+DTSTART:20241228T231400Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:vsffsngk36uave9nor15qu4d5s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241228T214900Z
+DTSTART:20241228T214900Z
+SUMMARY:Moon Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:95r0sdjqrtgktvlsedns1l2ag8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Saturn\nSteady accomplishment is the way to go.  Patiently tackle any obstacles and make those tough decisions.
+DTEND:20241006T182800Z
+DTSTART:20241006T182800Z
+SUMMARY:Sun Quincunx Saturn
+TRANSP:TRANSPARENT
+UID:mkdbfrs9omm61i8nugugrqum6g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Sextile Venus\nFlowing social conversation. Spirit of compromise and agreement. Harmonious interaction. Clarity. Appreciation of beauty.
+DTEND:20241213T074400Z
+DTSTART:20241213T074400Z
+SUMMARY:Mercury Sextile Venus
+TRANSP:TRANSPARENT
+UID:ji7cn5d9uovfn7j69qopla517g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241024T214300Z
+DTSTART:20241024T214300Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:ledhmkcfql3uek3cvcr5l6of7o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241026T235400Z
+DTSTART:20241026T235400Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:v5e6mgco2fas9ajdq0rdd6ub64@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+DTEND:20240914T075300Z
+DTSTART:20240914T075300Z
+SUMMARY:Moon Enters Aquarius
+TRANSP:TRANSPARENT
+UID:tl8uo9lkk264ss08n82m5269qs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Opposite Saturn\nSteady accomplishment is the way to go.  Patiently tackle any obstacles and make those tough decisions.
+DTEND:20240908T043400Z
+DTSTART:20240908T043400Z
+SUMMARY:Sun Opposite Saturn
+TRANSP:TRANSPARENT
+UID:01tgfpu4fo9prf5cdvo1hq9q1o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mars\nAvoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20240912T105600Z
+DTSTART:20240912T105600Z
+SUMMARY:Moon Opposite Mars
+TRANSP:TRANSPARENT
+UID:om7q2h2im69jsoc17gm6bico0c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241115
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+SUMMARY:Moon in Taurus
+TRANSP:TRANSPARENT
+UID:jrfkrq7k78c2vsk0pau60ngqqg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Sextile Pluto\nPenetrating conversation. Power in speech. Persuasion. Talk of change and sexuality. Psychological issues. Exposure.
+DTEND:20241102T150200Z
+DTSTART:20241102T150200Z
+SUMMARY:Mercury Sextile Pluto
+TRANSP:TRANSPARENT
+UID:l13rpcs08j91i52qi13ee3lv5k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241107T223700Z
+DTSTART:20241107T223700Z
+SUMMARY:Moon Conjunct Pluto
+TRANSP:TRANSPARENT
+UID:r80850bu4eb8v2556druvff6jk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241210T221301Z
+DTSTART:20241210T221301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:s43rdor7800ojmnjb1rs34k7ls@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+DTEND:20241110T035900Z
+DTSTART:20241110T035900Z
+SUMMARY:Moon Enters Pisces
+TRANSP:TRANSPARENT
+UID:qe4fu3cj6nsrqn5538n90agqus@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241219T200400Z
+DTSTART:20241219T200400Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:hnp6gfgqa58pglg9bddsdjlfhg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241017T192601Z
+DTSTART:20241017T192601Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:slg85onm0id7dn3jdrq5871aq8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241011T155200Z
+DTSTART:20241011T155200Z
+SUMMARY:Moon Conjunct Pluto
+TRANSP:TRANSPARENT
+UID:nnk2jl6bv813pfoe71g20svfps@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+DTEND:20241211T155400Z
+DTSTART:20241211T155400Z
+SUMMARY:Moon Enters Taurus
+TRANSP:TRANSPARENT
+UID:7e3alhce6lmesuk9udainu2h94@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Venus\nYour love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241118T233500Z
+DTSTART:20241118T233500Z
+SUMMARY:Moon Opposite Venus
+TRANSP:TRANSPARENT
+UID:3g9ag6r06vmm2d0rai8h1tl75c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Jupiter\nFollow your bliss. Now is the time to discover your true heart's desire. This could be a person\, a vocation\, or an artistic hobby. Enjoy!
+DTEND:20241220T021000Z
+DTSTART:20241220T021000Z
+SUMMARY:Venus Trine Jupiter
+TRANSP:TRANSPARENT
+UID:hvovtnurjt83sosnocuu6redtc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240919T181000Z
+DTSTART:20240919T181000Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:q9t9cfiusqq52rlollodbblcog@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241116T070201Z
+DTSTART:20241116T070201Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:584vhm30fb3n0q8dr781jts1dk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241114T064900Z
+DTSTART:20241114T064900Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:2h1cen8lk8128168bpf41fl0s0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+DTEND:20241103T051900Z
+DTSTART:20241103T051900Z
+SUMMARY:Moon Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:grjss878buqqqkbib1kiktpar8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241001T042900Z
+DTSTART:20241001T042900Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:b6odjpni6dd4vpt9jgg2rddp6s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mars\nCourage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241023T211900Z
+DTSTART:20241023T211900Z
+SUMMARY:Moon Conjunct Mars
+TRANSP:TRANSPARENT
+UID:4r67884rueci83mtg0ieeku42s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241112T061301Z
+DTSTART:20241112T061301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:ojpl1tgkfjed9l3hga1ei7tqjs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241103T045000Z
+DTSTART:20241103T045000Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:pt8ailc6oj0d3cmr3i28c0797o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20240907T050800Z
+DTSTART:20240907T050800Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:plumeohlhirgrbpv4t0el5omgc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Jupiter\nEverything is happening at once. Let go of what you can and prioritise.
+DTEND:20241027T085000Z
+DTSTART:20241027T085000Z
+SUMMARY:Mercury Quincunx Jupiter
+TRANSP:TRANSPARENT
+UID:usvimukr2m84dofe3imtb5eefk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241201T124800Z
+DTSTART:20241201T124800Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:q5go5n8fba6p94adpnsdpi2un8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240907T050801Z
+DTSTART:20240907T050801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:ufa8ug9vjfc2en5i4m1olgirho@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241023T002100Z
+DTSTART:20241023T002100Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:7rdj5fji0l7n7r6d8p40oku8s8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241113T041800Z
+DTSTART:20241113T041800Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:3bms3amj338jc0m6php52nhujk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20240917T183000Z
+DTSTART:20240917T183000Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:bunechsodbasin7sgn0arsjr2s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Saturn\nConcentration is a challenge. Before your mind goes into overload\, adjust your thinking and then your workload.
+DTEND:20241004T064600Z
+DTSTART:20241004T064600Z
+SUMMARY:Mercury Quincunx Saturn
+TRANSP:TRANSPARENT
+UID:rj2p91rh709cmgl29s419emvks@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241017T084300Z
+DTSTART:20241017T084300Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:fi9jt2lsni86tf26qd2cps2d04@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars goes Stationary Retrograde
+DTEND:20241206T233200Z
+DTSTART:20241206T233200Z
+SUMMARY:Mars goes Retrograde
+TRANSP:TRANSPARENT
+UID:7nom8jkcvidq5k4je79q5rvn48@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+DTEND:20241116T070800Z
+DTSTART:20241116T070800Z
+SUMMARY:Moon Enters Gemini
+TRANSP:TRANSPARENT
+UID:fmcoh80js9jnms2tlv9but8u6c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Pluto - Your biological urges are powerful right now. Enjoy the feelings\, learn from them and trust that all is in order.
+DTEND:20240922T061100Z
+DTSTART:20240922T061100Z
+SUMMARY:Sun Trine Pluto
+TRANSP:TRANSPARENT
+UID:susrdc22qknclbv3ivbokbtv2c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241209T183200Z
+DTSTART:20241209T183200Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:tjd86i3q5vmfribfu4tsiqpvjk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241015T200000Z
+DTSTART:20241015T200000Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:56s8e74uu8s8bl5eb2qn5muas0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241227T213500Z
+DTSTART:20241227T213500Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:j1o22bgb1eq0l3v36q9uu5v8rc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241005
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:naqoh5abe8fu5jt09ah04lcn1o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241231T233000Z
+DTSTART:20241231T233000Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:vkcnl40mfpbi7ueo2bup7lc36c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241217T183300Z
+DTSTART:20241217T183300Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:ulf33dda9rfu11rrke8voo0cn4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241116T024300Z
+DTSTART:20241116T024300Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:uii19tt7j3sdkmkgouk6srg270@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241107T223701Z
+DTSTART:20241107T223701Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:h450b2ur34khs3i5r0n5fbhp2g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241001T213801Z
+DTSTART:20241001T213801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:oa40ce23usgm5aoagrecud5t4k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241122T002000Z
+DTSTART:20241122T002000Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:rv68591log0298208d0kibflc0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241231T070200Z
+DTSTART:20241231T070200Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:p4q9g30vn9q0iu8tr4hbn6m34o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20240917T065500Z
+DTSTART:20240917T065500Z
+SUMMARY:Moon Opposite Mercury
+TRANSP:TRANSPARENT
+UID:7vcr8lrr3orh77akjnc05unm78@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241120T111901Z
+DTSTART:20241120T111901Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:prnel5j8eueoh2uncov8qpqtg8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+DTEND:20241019T200600Z
+DTSTART:20241019T200600Z
+SUMMARY:Moon Enters Gemini
+TRANSP:TRANSPARENT
+UID:nglkoh2v5mp786t91j8q3n4huc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Square Pluto - Your biological urges are powerful right now. Enjoy the feelings but avoid the seven deadly sins!
+DTEND:20241022T141500Z
+DTSTART:20241022T141500Z
+SUMMARY:Sun Square Pluto
+TRANSP:TRANSPARENT
+UID:pn6gooucm1earmkmhfmpt9mph4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities.
+DTEND:20241115T233100Z
+DTSTART:20241115T233100Z
+SUMMARY:Moon Conjunct Uranus
+TRANSP:TRANSPARENT
+UID:7e2d8qsjjc2k9bbcochcakf5s0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241022T221600Z
+DTSTART:20241022T221600Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:evpje413oo7ocd3nhrek6cbrcs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241207T000100Z
+DTSTART:20241207T000100Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:3hmq4767qmjet269aopovnatb4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:3tt526de0i06tej28308o1hupk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241217T183301Z
+DTSTART:20241217T183301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:ljci2d36i25mqg2cgqkmhdq6f8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20240915T190800Z
+DTSTART:20240915T190800Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:dl0vkvt9qj2tg2emdtdhn2v7e8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Quincunx Pluto\nYou have energy fit to burst. Direct this into positive pursuits. Don't push others. Strategize. Actions now will have results.
+DTEND:20240904T175800Z
+DTSTART:20240904T175800Z
+SUMMARY:Mars Quincunx Pluto
+TRANSP:TRANSPARENT
+UID:2b7lokfgjsrmp7ar9nqpasddm8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241013T141000Z
+DTSTART:20241013T141000Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:2d8g88i4fhh8pme4vr62olln94@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20240926T193700Z
+DTSTART:20240926T193700Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:dq079l5qsm15uu6hqd959i4lu8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240921
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+SUMMARY:Moon in Taurus
+TRANSP:TRANSPARENT
+UID:oocr6qullktn4gio9k9ofeep04@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241221T103800Z
+DTSTART:20241221T103800Z
+SUMMARY:Moon Opposite Saturn
+TRANSP:TRANSPARENT
+UID:snt64bt75copmjf749k4br6bpk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+DTEND:20241001T221900Z
+DTSTART:20241001T221900Z
+SUMMARY:Moon Enters Libra
+TRANSP:TRANSPARENT
+UID:3b76dcgjksflmimpcnvdghl1v0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241113T135000Z
+DTSTART:20241113T135000Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:herkkfems1rpnog4m6gbv45um0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Conjunct Pluto\nYour interactions with others may be intense right now. Express yourself honestly and then step back and allow others to discover their truth.
+DTEND:20241207T140800Z
+DTSTART:20241207T140800Z
+SUMMARY:Venus Conjunct Pluto
+TRANSP:TRANSPARENT
+UID:snn8v01ciaeogjc8p6r7csi75g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities.
+DTEND:20240922T052800Z
+DTSTART:20240922T052800Z
+SUMMARY:Moon Conjunct Uranus
+TRANSP:TRANSPARENT
+UID:a2p4rgv0oqodoik17vful37btg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Pluto\nPenetrating conversation. Power in speech. Persuasion. Talk of change and sexuality. Psychological issues. Exposure.
+DTEND:20240926T041300Z
+DTSTART:20240926T041300Z
+SUMMARY:Mercury Trine Pluto
+TRANSP:TRANSPARENT
+UID:se1oenkjah06ptpn2ult2a6le0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241127T091401Z
+DTSTART:20241127T091401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:gegcl1ju216tffd10q34252up0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241208T055700Z
+DTSTART:20241208T055700Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:v651crne7kaae3to2peht22in4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241229T233401Z
+DTSTART:20241229T233401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:096au0ga8rl4e658c99l6hi1tk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+SUMMARY:Moon in Aquarius
+TRANSP:TRANSPARENT
+UID:756gqdgd9dj3ucgcvkuikf6bjc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241202T154600Z
+DTSTART:20241202T154600Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:7qbfkv2ils9li5edvbnp5snprk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240902T002401Z
+DTSTART:20240902T002401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:7otu8vs590uj758nd2vtiejm58@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:92513nubk2ggpn1tmhvh2n1luo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20240922T101300Z
+DTSTART:20240922T101300Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:alldh1esiebd57fdjulio85ip8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20240913T113000Z
+DTSTART:20240913T113000Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:55mk6b69aqf0dmmnse4i7itvmk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Jupiter Square Saturn\nStrike a balance between personal goals and responsibilities to others. Exercise tolerance. Rewards are slow but satisfying.
+DTEND:20241224T215900Z
+DTSTART:20241224T215900Z
+SUMMARY:Jupiter Square Saturn
+TRANSP:TRANSPARENT
+UID:uioa33srd28iirjtvln7di111g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Neptune\nFeeling a little foggy in your thinking? Take your time. Relax and wait for clarity.
+DTEND:20240908T105100Z
+DTSTART:20240908T105100Z
+SUMMARY:Mercury Quincunx Neptune
+TRANSP:TRANSPARENT
+UID:j6a3tnfetnhcdn3jbdepacnmuk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240908
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:poa54qeghc0e0j64mjnfsmlf4c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241203T211600Z
+DTSTART:20241203T211600Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:ocpq4ssqc2rdtqt7fu55i74gkk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241021T205900Z
+DTSTART:20241021T205900Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:mn5h4qtctumobei1nagc1d0tn0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+DTEND:20241217T233800Z
+DTSTART:20241217T233800Z
+SUMMARY:Moon Enters Leo
+TRANSP:TRANSPARENT
+UID:ml9m5d98ivfj1v8577q055u3is@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241114T064901Z
+DTSTART:20241114T064901Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:pd2nh9ed82gq46uh3msfc42v5k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241027T175500Z
+DTSTART:20241027T175500Z
+SUMMARY:Moon Opposite Saturn
+TRANSP:TRANSPARENT
+UID:835ufnn49svddccqac7tl3egi8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241017T192600Z
+DTSTART:20241017T192600Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:dqbm4fs3h2iojcfmqjm5ibo1hc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241019T162700Z
+DTSTART:20241019T162700Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:6ip0886vd5e6t5hhgub3qodp6o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+DTEND:20241006T233300Z
+DTSTART:20241006T233300Z
+SUMMARY:Moon Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:0t2c17t05v3hemcn5i55u6bbk8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241003T065900Z
+DTSTART:20241003T065900Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:mlmfncva10be1g2n8tn49vivk0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241014T180800Z
+DTSTART:20241014T180800Z
+SUMMARY:Moon Conjunct Saturn
+TRANSP:TRANSPARENT
+UID:uvg2nu657it1lajtvmj1d45p98@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Sextile Saturn\nInhibitions which preserve stability: loyalty\, duty\, economy. Diplomacy. Good judgment. Business agreements. Conservatism.
+DTEND:20241122T115400Z
+DTSTART:20241122T115400Z
+SUMMARY:Venus Sextile Saturn
+TRANSP:TRANSPARENT
+UID:l53folbb0uo3n4dtrmj56bqo18@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Jupiter goes Stationary Retrograde
+DTEND:20241009T070400Z
+DTSTART:20241009T070400Z
+SUMMARY:Jupiter goes Retrograde
+TRANSP:TRANSPARENT
+UID:mcjvf60h606utmf6afpan8gdn8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241006T225200Z
+DTSTART:20241006T225200Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:ggrk5ve4k932f3vgjsf2befan0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240910
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:888tdoauenh8b3m0avdqeaia8k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20240924T182900Z
+DTSTART:20240924T182900Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:5h7bq7vfs8ehr96118tvj11mts@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20240909T171100Z
+DTSTART:20240909T171100Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:9aksecvn684gl735cdccn1egl8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Square Saturn\nA pause in your social calendar helps you reassess your friendships and more serious relationships. Loyalties may be questioned.
+DTEND:20241028T133400Z
+DTSTART:20241028T133400Z
+SUMMARY:Venus Square Saturn
+TRANSP:TRANSPARENT
+UID:mpqqejqlupoco0jmjoprdpesrg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241120T045500Z
+DTSTART:20241120T045500Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:sm7ecarn95p0qj305qvlhjlvqs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241210
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+SUMMARY:Moon in Aries
+TRANSP:TRANSPARENT
+UID:6621ta6aoplcq4fsmeov8vo7ls@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241214T184200Z
+DTSTART:20241214T184200Z
+SUMMARY:Moon Conjunct Jupiter
+TRANSP:TRANSPARENT
+UID:eiodj0nsb8t969lik5jq4seslk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Enters Cancer - Time to fight for people or causes about which you feel strongly. Protect your family. When personally hurt\, you retreat into your shell rather than lash out.
+DTEND:20240904T194600Z
+DTSTART:20240904T194600Z
+SUMMARY:Mars Enters Cancer
+TRANSP:TRANSPARENT
+UID:jaq8vutkn9tf6gmv1ijc2vi688@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241109T055500Z
+DTSTART:20241109T055500Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:uhtihed9qmsg5b1mm7anvo6hfs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241112T103600Z
+DTSTART:20241112T103600Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:rd6p8lepcum4i04kif32uhlhvc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241209T142100Z
+DTSTART:20241209T142100Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:2st5t1vr7jfredjt0kukkcccj4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241116T125900Z
+DTSTART:20241116T125900Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:39jasouf41tm6gtpe014meamh8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240928
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:utr2jlcbbo1dl4b2abep7mqdqc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241031T165600Z
+DTSTART:20241031T165600Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:1mb4kqdn2gqqolrjpea8js42ig@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20240903T015500Z
+DTSTART:20240903T015500Z
+SUMMARY:New Moon - 11 Virgo
+TRANSP:TRANSPARENT
+UID:b8gof595deovorapn68r0e3d60@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20240906T231000Z
+DTSTART:20240906T231000Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:ltavp136n6f42tnkuik1mgfitk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Square Jupiter\nYou are confident and optimistic. Make the most of this sunny period to expand your horizons but don't go over the top.
+DTEND:20240912T105200Z
+DTSTART:20240912T105200Z
+SUMMARY:Sun Square Jupiter
+TRANSP:TRANSPARENT
+UID:2j4ujg11ihsmomqvfsqcsjfv1c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241113
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+SUMMARY:Moon in Aries
+TRANSP:TRANSPARENT
+UID:bjkm972534n49ud1ckhj0ecnlc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241119
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+SUMMARY:Moon in Cancer
+TRANSP:TRANSPARENT
+UID:aj6c7fh4n3s5htma9tbq8q3r8o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241225T165900Z
+DTSTART:20241225T165900Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:9usuqs4bato308ovjgoiu13bq4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240915T180400Z
+DTSTART:20240915T180400Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:r9j5kqh1gdeggu3h3l7s26506k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241025T214100Z
+DTSTART:20241025T214100Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:s856eth3nt8qo91d9tv1p6m3ns@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:di2tfuhkeu5vjf158r3p32o37s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241125T113200Z
+DTSTART:20241125T113200Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:rh8ofiq6prnalvsgfrn1n1avk8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241108
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+SUMMARY:Moon in Aquarius
+TRANSP:TRANSPARENT
+UID:o4rnroa16aa4c2ninitkoviuds@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240907T082300Z
+DTSTART:20240907T082300Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:6864rigmbulb8em2su5gjs62v8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241130T121700Z
+DTSTART:20241130T121700Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:rmeh2or5pe4icknoug16k25dn8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241204T233301Z
+DTSTART:20241204T233301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:l2hui0tdemeguor8botombsico@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241124T200900Z
+DTSTART:20241124T200900Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:p454pk9u0hbvs0la1sgck4mt5c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241130T061800Z
+DTSTART:20241130T061800Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:7opreq69qv30u6avospp014558@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Saturn\nNarrow\, focused thinking. Exclusion. Limitations in transport or communication. Overly exacting judgments. Delays.
+DTEND:20241112T132100Z
+DTSTART:20241112T132100Z
+SUMMARY:Mercury Square Saturn
+TRANSP:TRANSPARENT
+UID:gr7nku68rc3h635v5qt9rke778@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Enters Scorpio - Use resources well. Delve into the core of matters\, Avoid worry and intense communications. Meditate and contemplate.
+DTEND:20241013T192300Z
+DTSTART:20241013T192300Z
+SUMMARY:Mercury Enters Scorpio
+TRANSP:TRANSPARENT
+UID:rn0hkhencarhbaudpccqhvkvq4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20240921T092700Z
+DTSTART:20240921T092700Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:sld3uv0d79n428opksmsqe38b4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241010T111600Z
+DTSTART:20241010T111600Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:bg18lbej1top1js9filufjl2q0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Uranus\nRight now you may feel a little restless but try not to revolt. A little restraint helps you make appropriate changes.
+DTEND:20241215T144300Z
+DTSTART:20241215T144300Z
+SUMMARY:Sun Quincunx Uranus
+TRANSP:TRANSPARENT
+UID:9ms4eobcj8fsd6tu9arjsli1r0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20240911T080600Z
+DTSTART:20240911T080600Z
+SUMMARY:Moon Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:98j5obp0icvh9lhos0ltoab27c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+SUMMARY:Moon in Pisces
+TRANSP:TRANSPARENT
+UID:jt3qk3v3spdhu22kpubilnnahk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+DTEND:20240929T094100Z
+DTSTART:20240929T094100Z
+SUMMARY:Moon Enters Virgo
+TRANSP:TRANSPARENT
+UID:4q0hdfenh9r07mtkk81b9k67c4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Pluto\nMental intensity. Troubled mind. Passive-aggressive argument. Persuasive speech. Craftiness. Strategy. Paranoia?!
+DTEND:20241013T140200Z
+DTSTART:20241013T140200Z
+SUMMARY:Mercury Square Pluto
+TRANSP:TRANSPARENT
+UID:0skfeftfh19h6c9i8iro6sqk2g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+DTEND:20241120T135000Z
+DTSTART:20241120T135000Z
+SUMMARY:Moon Enters Leo
+TRANSP:TRANSPARENT
+UID:k10emoov2a2m7bjksbeonc8p3g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241228
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:eovov32s83i27pvo2vru4sgm68@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241031T145600Z
+DTSTART:20241031T145600Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:0j623m1lqiugui83ggaaio1mns@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20240914T030300Z
+DTSTART:20240914T030300Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:4d5ld5rkusiphp7o6nbutikeok@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Neptune - Follow your intuition. Your imagination and creativity are limitless. Record your dreams and ideas.
+DTEND:20241119T020700Z
+DTSTART:20241119T020700Z
+SUMMARY:Sun Trine Neptune
+TRANSP:TRANSPARENT
+UID:lhuvs1og2hqftdhr3hd91jkfg8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241120T111900Z
+DTSTART:20241120T111900Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:idf6tr7g8q5j0qu1cip9amdv2o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241018T071400Z
+DTSTART:20241018T071400Z
+SUMMARY:Moon Opposite Mercury
+TRANSP:TRANSPARENT
+UID:olhtojo4i75jm32s7tj09jm5dk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241028T093600Z
+DTSTART:20241028T093600Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:fnu0m80suiqupbass5bpddgf98@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241013T033900Z
+DTSTART:20241013T033900Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:5e46lubijace2dms13p4v1o1js@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241015T063700Z
+DTSTART:20241015T063700Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:vatadu0leu4tc1e74k9ckid1so@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Pluto\nTruthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241024T044700Z
+DTSTART:20241024T044700Z
+SUMMARY:Moon Opposite Pluto
+TRANSP:TRANSPARENT
+UID:g76hkig9iuil6proe7fqagjoso@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+DTEND:20241225T080600Z
+DTSTART:20241225T080600Z
+SUMMARY:Moon Enters Scorpio
+TRANSP:TRANSPARENT
+UID:h74nqdkm0uib8aseuoih7no93s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241229
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:0lrccoafep95gh6jrh5f964ebg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Enters Virgo - Be precise in your communications with others. Draw up schedules. Enter diary dates. Organize.
+DTEND:20240909T064900Z
+DTSTART:20240909T064900Z
+SUMMARY:Mercury Enters Virgo
+TRANSP:TRANSPARENT
+UID:uo0b47rifinron25ibu84ao7n0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241008T024900Z
+DTSTART:20241008T024900Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:kulflisgvabfpcbdsj419evi14@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241218T121400Z
+DTSTART:20241218T121400Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:jg77haf1dc6cfatff0hhicoeac@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241023T221600Z
+DTSTART:20241023T221600Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:e9kkv5jidc17pkup00jd4soot0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Saturn\nA pause in your social calendar helps you reassess your friendships and more serious relationships. Loyalties may be questioned.
+DTEND:20240911T105100Z
+DTSTART:20240911T105100Z
+SUMMARY:Venus Quincunx Saturn
+TRANSP:TRANSPARENT
+UID:b6c7f1b0ikmucq2ogi20tvlsl8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241103T043900Z
+DTSTART:20241103T043900Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:p46f46ulnvru7hmr1gehen7t3g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Saturn\nNarrow\, focused thinking. Exclusion. Limitations in transport or communication. Overly exacting judgments. Delays.
+DTEND:20240918T085000Z
+DTSTART:20240918T085000Z
+SUMMARY:Mercury Opposite Saturn
+TRANSP:TRANSPARENT
+UID:5jsm50rtkjc552k5i6n4gdb11c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240904T160601Z
+DTSTART:20240904T160601Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:nfb9r25ue66vuqoc30a8vcagqc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241026T080301Z
+DTSTART:20241026T080301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:usv95c1l3s7ls53v51r1ktrrgc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241201
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:v5gpac9mat2p7fdk41u4ids4hc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+DTEND:20241122T230000Z
+DTSTART:20241122T230000Z
+SUMMARY:Moon Enters Virgo
+TRANSP:TRANSPARENT
+UID:nad7938h080ojkvgmpmlgbqcag@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20240914T073400Z
+DTSTART:20240914T073400Z
+SUMMARY:Moon Conjunct Pluto
+TRANSP:TRANSPARENT
+UID:7porm25shv0mvn8l8h9o8ojec0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241208T135500Z
+DTSTART:20241208T135500Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:5obadh67jfu5ub9icloe7i6n70@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241125T053401Z
+DTSTART:20241125T053401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:02doddo39b94a4kq7aatf1632s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241126T232600Z
+DTSTART:20241126T232600Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:m2efrm7ii07t6fgateb330qi78@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241002T222100Z
+DTSTART:20241002T222100Z
+SUMMARY:Moon Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:h9gbqerec9pjtorpdk37ll9glg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241001T184100Z
+DTSTART:20241001T184100Z
+SUMMARY:Moon Opposite Neptune
+TRANSP:TRANSPARENT
+UID:o61vng7nlbu6kv76bo9h9fivsg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20240927T075000Z
+DTSTART:20240927T075000Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:aq3s29o13ek20h61ptba50v18g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241029T035401Z
+DTSTART:20241029T035401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:q2o7tlvnrt2tdp1rt60dnt61v4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241006T225201Z
+DTSTART:20241006T225201Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:4h7vqkqnk4bcm3rk6ekpqngus8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241115T031700Z
+DTSTART:20241115T031700Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:72es3jri9bm678hpv24em1ptsk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241104T235000Z
+DTSTART:20241104T235000Z
+SUMMARY:Moon Conjunct Venus
+TRANSP:TRANSPARENT
+UID:tpl0mtc6720hcqiccu723slcdc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+DTEND:20241215T192100Z
+DTSTART:20241215T192100Z
+SUMMARY:Moon Enters Cancer
+TRANSP:TRANSPARENT
+UID:tgct5erpkbnnl806k7ua3fba8k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241210T162300Z
+DTSTART:20241210T162300Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:ts2tf3f32frglirtrdvairi9bk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:q1glc075j5cc19du4sedj61iis@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Jupiter\nWant to party? Resist the urge to be distracted. Now is the time to discover your true heart's desire. This could be a person\, a vocation\, or an artistic hobby. 
+DTEND:20241010T154300Z
+DTSTART:20241010T154300Z
+SUMMARY:Venus Quincunx Jupiter
+TRANSP:TRANSPARENT
+UID:7ogqeq16fqi2hmveof1ea95cl4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240930
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:poiaqi010qps16fl8sk8aubcq4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20240901T123600Z
+DTSTART:20240901T123600Z
+SUMMARY:Moon Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:6jjp3rra67afeugcb5cciaib0o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20240903T123700Z
+DTSTART:20240903T123700Z
+SUMMARY:Moon Opposite Saturn
+TRANSP:TRANSPARENT
+UID:rfqr5hn8o0aupt62idltfvua00@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Uranus\nLife is a little tense right now. Avoid willful behavior. Remain open to new possibilities and all will be revealed.
+DTEND:20241227T073300Z
+DTSTART:20241227T073300Z
+SUMMARY:Moon Opposite Uranus
+TRANSP:TRANSPARENT
+UID:nq9fo7joddvuch03sl6oc6u1ts@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mars\nCourage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241218T091200Z
+DTSTART:20241218T091200Z
+SUMMARY:Moon Conjunct Mars
+TRANSP:TRANSPARENT
+UID:3vdkgpp3i0rmhi0ei6k112bshs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241220T051900Z
+DTSTART:20241220T051900Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:tmg7v19refc6sl1j5vism4pdu4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+DTEND:20240926T224700Z
+DTSTART:20240926T224700Z
+SUMMARY:Moon Enters Leo
+TRANSP:TRANSPARENT
+UID:d3cc8d8jcvrau91bntccakdde4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241119T064700Z
+DTSTART:20241119T064700Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:s2td4mfprpfrclbiet4par0dtk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240921T001700Z
+DTSTART:20240921T001700Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:0lanvjc68oia8s3f4bdsmdfl70@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241028T235400Z
+DTSTART:20241028T235400Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:aqeove4q193lpuhi0gmg8s8abg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241204T233300Z
+DTSTART:20241204T233300Z
+SUMMARY:Moon Conjunct Venus
+TRANSP:TRANSPARENT
+UID:9klh5de2725ohn44caeq2qprb4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240902T002400Z
+DTSTART:20240902T002400Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:hdgh17jkck8iltbjgmigqnvm74@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241001T213800Z
+DTSTART:20241001T213800Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:v5l6l21ubcplkra0km7t4kdmr8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241214T041900Z
+DTSTART:20241214T041900Z
+SUMMARY:Moon Opposite Mercury
+TRANSP:TRANSPARENT
+UID:savcibngfoseic9aslq6g592m4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Mars - A good time for competition rather than co-operation. So solve those problems but don't create them!
+DTEND:20241127T080600Z
+DTSTART:20241127T080600Z
+SUMMARY:Sun Trine Mars
+TRANSP:TRANSPARENT
+UID:b5dbcihc6s7sgaurmu458en0gk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Trine Saturn - Steady accomplishment is the way to go right now. Establish good relations with those in authority. Reap the rewards of past endeavours.
+DTEND:20241104T173500Z
+DTSTART:20241104T173500Z
+SUMMARY:Sun Trine Saturn
+TRANSP:TRANSPARENT
+UID:ouq0nhsnqqqhdbla5s9bh7nv8g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20240913T065200Z
+DTSTART:20240913T065200Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:2nisdcppbai5bsaatub67lj110@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241011T155201Z
+DTSTART:20241011T155201Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:2tlkus4g59v6gcii9qjqnes2mc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+DTEND:20241230T043700Z
+DTSTART:20241230T043700Z
+SUMMARY:Moon Enters Capricorn
+TRANSP:TRANSPARENT
+UID:s1tqr6crm9i33a8gjvqunlg5a0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241125T005800Z
+DTSTART:20241125T005800Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:iveu1e5aimv20km5o0embjhl9o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241227T050700Z
+DTSTART:20241227T050700Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:3l7ekrp4veabmocmdt1lvk4akk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Trine Neptune\nThe desire to escape is strong\, perhaps inspired by a wonderful project or person\; or maybe you are tired. Don't push. Take some quiet time. Have faith that all will be well.
+DTEND:20241028T123000Z
+DTSTART:20241028T123000Z
+SUMMARY:Mars Trine Neptune
+TRANSP:TRANSPARENT
+UID:oaut55khlfgq4e5t9su4uve0fk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241211T164200Z
+DTSTART:20241211T164200Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:ff6n850558nh7mfs5kogilc970@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Saturn\nNarrow\, focused thinking. Exclusion. Limitations in transport or communication. Overly exacting judgments. Delays.
+DTEND:20241207T015300Z
+DTSTART:20241207T015300Z
+SUMMARY:Mercury Square Saturn
+TRANSP:TRANSPARENT
+UID:r85c3racbksog21bj0lftaf5dg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241221
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:idrah31ro14a06sac09r3hgshk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240922T101301Z
+DTSTART:20240922T101301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:pb4rkgcnoeg1ql7ebfk1o71hao@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241209T084400Z
+DTSTART:20241209T084400Z
+SUMMARY:Moon Conjunct Neptune
+TRANSP:TRANSPARENT
+UID:ak291lbiudlc350dssv1bggbl0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20240927T011700Z
+DTSTART:20240927T011700Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:9c06aslrbouk4091pkf68ei0co@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241027T153900Z
+DTSTART:20241027T153900Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:ic2rm0ou8t3u3n12n9184agn4s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241212T010000Z
+DTSTART:20241212T010000Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:0vtg048s9c3tnma6fnddjt0k50@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241129
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:tr5ken35423k6mhpqk4fg04u4s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241001T155900Z
+DTSTART:20241001T155900Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:acdvtgaad450gv6n40l8sbtlfk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241013T192301Z
+DTSTART:20241013T192301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:rr2tki778l4a1for6oub83vc90@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241126
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:0ovt2134sjif5k76f1i40vu800@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+DTEND:20241017T195900Z
+DTSTART:20241017T195900Z
+SUMMARY:Moon Enters Taurus
+TRANSP:TRANSPARENT
+UID:9vkf476r3huf479ac0k76rsn2k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241127T000600Z
+DTSTART:20241127T000600Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:iju05o4s8nc3277skt720dhm50@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240905
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:ftt96f59m8eagd4q6mg8u66hts@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241030
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:8vegms4n1g772sigdtcgeda878@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+DTEND:20241013T195400Z
+DTSTART:20241013T195400Z
+SUMMARY:Moon Enters Pisces
+TRANSP:TRANSPARENT
+UID:0b16q39drdl15i27lpdsitd3i8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241204
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:862ecti6v7k3l18le2ot6vb91s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Opposite Neptune\nThis a time for dreaming rather than decision-making. Record your dreams and inspirational ideas. You may not have clarity right now\, but it will come later. 
+DTEND:20240921T001600Z
+DTSTART:20240921T001600Z
+SUMMARY:Sun Opposite Neptune
+TRANSP:TRANSPARENT
+UID:it64vvq4eu566f0l62ctpbfe44@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241003T174000Z
+DTSTART:20241003T174000Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:g2n9rnb6uaq2sng1m2ur0r5lvk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20240918T023400Z
+DTSTART:20240918T023400Z
+SUMMARY:Full Moon Lunar Eclipse - 25 Pisces
+TRANSP:TRANSPARENT
+UID:stcp0ajttm015p0npklifp0rm0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241228T014900Z
+DTSTART:20241228T014900Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:8j5j6hmslrot11ti3j96tjqma8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240909T171101Z
+DTSTART:20240909T171101Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:hsosoqp9o21h582sfcbt3qg9hg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Opposite Uranus\nRight now you may feel a little restless but try not to revolt. A little restraint helps you make appropriate changes.
+DTEND:20241117T024400Z
+DTSTART:20241117T024400Z
+SUMMARY:Sun Opposite Uranus
+TRANSP:TRANSPARENT
+UID:a7sntgh9toh6ivad2tdr87f55c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20240912T113500Z
+DTSTART:20240912T113500Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:ur3lpq8bt50uoepuq5g9jrmg8g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Pluto\nTruthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20240926T221200Z
+DTSTART:20240926T221200Z
+SUMMARY:Moon Opposite Pluto
+TRANSP:TRANSPARENT
+UID:ameasalrgp23nroefnm4s8481c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241222T064900Z
+DTSTART:20241222T064900Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:r783l1gq5dc9vb1cf8fs9fna3g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240915
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+SUMMARY:Moon in Aquarius
+TRANSP:TRANSPARENT
+UID:ngqvp2mqh0cis0gatc5fc417hg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Square Saturn - Steady accomplishment is the way to go.  Patiently tackle any obstacles and make those tough decisions.
+DTEND:20241204T161800Z
+DTSTART:20241204T161800Z
+SUMMARY:Sun Square Saturn
+TRANSP:TRANSPARENT
+UID:pqj6ksb4aa8d0143mk7p7o16qo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Neptune\nFeeling a little foggy in your thinking? Take your time. Relax and wait for clarity.
+DTEND:20241012T124000Z
+DTSTART:20241012T124000Z
+SUMMARY:Mercury Quincunx Neptune
+TRANSP:TRANSPARENT
+UID:1blkvnlvjh8qrvfnfgqdtcmj9o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241021T205901Z
+DTSTART:20241021T205901Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:7vub5mn87p8ifm0vc4e416f9k0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241223
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:9p8o7l4sm7oj3rnk6bod0sjelc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Conjunct Mercury\nThis is an auspicious time for communicating and writing. Assert yourself with clarity. 
+DTEND:20240930T210900Z
+DTSTART:20240930T210900Z
+SUMMARY:Sun Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:9qd6s3k07t9bqon2dg2gla8rm0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+DTEND:20240916T093800Z
+DTSTART:20240916T093800Z
+SUMMARY:Moon Enters Pisces
+TRANSP:TRANSPARENT
+UID:u8os8ld4lnllnt4hm0bcvg1o1c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Sextile Pluto - Your biological urges are powerful right now. Enjoy the feelings\, learn from them and trust that all is in order.
+DTEND:20241121T204900Z
+DTSTART:20241121T204900Z
+SUMMARY:Sun Sextile Pluto
+TRANSP:TRANSPARENT
+UID:4707g4i1r772h9ns1so19vi134@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20240930T143700Z
+DTSTART:20240930T143700Z
+SUMMARY:Moon Opposite Saturn
+TRANSP:TRANSPARENT
+UID:qkmjtocef69k6952tl68903de8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Uranus\nAn exciting creative person or project suddenly comes to light. Your path is unpredictable. Go with the flow.
+DTEND:20241202T144200Z
+DTSTART:20241202T144200Z
+SUMMARY:Venus Trine Uranus
+TRANSP:TRANSPARENT
+UID:4njrqnbjsc2esu3uf42528355k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Opposite Uranus\nAn exciting creative person or project suddenly comes to light creating a little tension. Your path is unpredictable. Go with the flow.
+DTEND:20241014T222100Z
+DTSTART:20241014T222100Z
+SUMMARY:Venus Opposite Uranus
+TRANSP:TRANSPARENT
+UID:3kdo87doh1c431dghh7fi1ameg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20240908T133700Z
+DTSTART:20240908T133700Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:kfn16annjlfefhvof0odfq6eo4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240923
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+SUMMARY:Moon in Gemini
+TRANSP:TRANSPARENT
+UID:950rhp66u9htenlftvff6ark0c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Pluto - Truthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20240920T083800Z
+DTSTART:20240920T083800Z
+SUMMARY:Moon Square Pluto
+TRANSP:TRANSPARENT
+UID:u8lughr14sij9ua0aphkjhg3lg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241110T002301Z
+DTSTART:20241110T002301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:3h6e9upjp6bffbmjgifrm8l5l8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Square Neptune\nThe desire to escape is strong\, perhaps inspired by a wonderful project or person\; or maybe you are tired. Don't push. Take some quiet time. Have faith that all will be well.
+DTEND:20240903T040900Z
+DTSTART:20240903T040900Z
+SUMMARY:Mars Square Neptune
+TRANSP:TRANSPARENT
+UID:suilgntup5s1218huupdiooek0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20240923T115700Z
+DTSTART:20240923T115700Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:aa9h3a911j8dkski7reuudg5d4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241122T063600Z
+DTSTART:20241122T063600Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:me54l21kqfjnv4st37lnefs4ck@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+DTEND:20241015T203300Z
+DTSTART:20241015T203300Z
+SUMMARY:Moon Enters Aries
+TRANSP:TRANSPARENT
+UID:is53d7lktsk3525a75vu9v6d6k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241116T070200Z
+DTSTART:20241116T070200Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:oa2ueklqgitjir36lkl3682uh0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20240929T033500Z
+DTSTART:20240929T033500Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:14pvvoafcblvu2udn8i8q6915g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241029T035400Z
+DTSTART:20241029T035400Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:80qq1m44k6n82siajsiui9jup0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+DTEND:20241220T073600Z
+DTSTART:20241220T073600Z
+SUMMARY:Moon Enters Virgo
+TRANSP:TRANSPARENT
+UID:qunado3ab8ml2pfhjluhhsvemo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Enters Sagittarius - Seek knowledge to expand your world view. Pursue any information which helps you see the big picture. Explore freedom of speech and thought.
+DTEND:20241102T191700Z
+DTSTART:20241102T191700Z
+SUMMARY:Mercury Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:ummf1mrfrm4ngusvjajfcm8rgo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Enters Scorpio - You have an intense need for relationships. Learn your partner's innermost thoughts. Be wary of secrets.
+DTEND:20240923T023500Z
+DTSTART:20240923T023500Z
+SUMMARY:Venus Enters Scorpio
+TRANSP:TRANSPARENT
+UID:pdh8cueojs5888ada3a8in26ms@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+DTEND:20240904T161100Z
+DTSTART:20240904T161100Z
+SUMMARY:Moon Enters Libra
+TRANSP:TRANSPARENT
+UID:lg6ucikrrjko04nrm8713sfutk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241021T185000Z
+DTSTART:20241021T185000Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:ellq68kkmuqi89s425i0cqurcs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20240927T084700Z
+DTSTART:20240927T084700Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:ujs23ek405sc40245cmbhm5iv4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Square Neptune\nThis a time for dreaming rather than decision-making. Record your dreams and inspirational ideas. You may not have clarity right now\, but it will come later. 
+DTEND:20241218T142800Z
+DTSTART:20241218T142800Z
+SUMMARY:Sun Square Neptune
+TRANSP:TRANSPARENT
+UID:m42bnsspbv0j4h6igqspc5ljog@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Venus\nYour love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20240920T031300Z
+DTSTART:20240920T031300Z
+SUMMARY:Moon Opposite Venus
+TRANSP:TRANSPARENT
+UID:ds0vm1h2p97eed7h957uqf3358@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240930T151000Z
+DTSTART:20240930T151000Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:36j7249nkdcqbl8ecf725bb9cs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20240921T203000Z
+DTSTART:20240921T203000Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:he5052e1der0f9fdajv0nutr5c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241214
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+SUMMARY:Moon in Gemini
+TRANSP:TRANSPARENT
+UID:rffspc7uri475237cogigeg7qk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241106T151600Z
+DTSTART:20241106T151600Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:9emf0lnjat2p4691fbm2l9qqlo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241030T113800Z
+DTSTART:20241030T113800Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:fuqvpbg444ghr2dsn0lpgddg20@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+DTEND:20241209T133700Z
+DTSTART:20241209T133700Z
+SUMMARY:Moon Enters Aries
+TRANSP:TRANSPARENT
+UID:8c0vb01ehdsc2t1t4a6sv7tk8k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241011T103100Z
+DTSTART:20241011T103100Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:kaelhlrohhhjcjm27ak6prtt4c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+DTEND:20241207T094800Z
+DTSTART:20241207T094800Z
+SUMMARY:Moon Enters Pisces
+TRANSP:TRANSPARENT
+UID:cqbu7nv55vv1rcev293qrv4900@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241005T182700Z
+DTSTART:20241005T182700Z
+SUMMARY:Moon Conjunct Venus
+TRANSP:TRANSPARENT
+UID:23jbaes0dbt0b2meqlcic0blk8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241215T143101Z
+DTSTART:20241215T143101Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:od7b3evgqp1u9tsdl0rapa1ue4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241108T125100Z
+DTSTART:20241108T125100Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:7a58442ccamntc66dm8h8s4icg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241105T102300Z
+DTSTART:20241105T102300Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:lr1d7hsu0qvh6u9qvlgf0q4a94@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+DTEND:20241029T042900Z
+DTSTART:20241029T042900Z
+SUMMARY:Moon Enters Libra
+TRANSP:TRANSPARENT
+UID:a8pv84orbbrah8n89rf8jg84v4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241013T052100Z
+DTSTART:20241013T052100Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:jtqpgstuef00jpg5tidgs1qne8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241025T164100Z
+DTSTART:20241025T164100Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:th3rkabotsr04vvjmobrpj1p6k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+DTEND:20240902T034800Z
+DTSTART:20240902T034800Z
+SUMMARY:Moon Enters Virgo
+TRANSP:TRANSPARENT
+UID:v3tp6leapcca0l95c771882sfk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241222T132601Z
+DTSTART:20241222T132601Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:spb30lvmujm3d7sf6jjc5m719k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Uranus\nRight now you may feel a little restless but try not to revolt. A little restraint helps you make appropriate changes.
+DTEND:20241019T063900Z
+DTSTART:20241019T063900Z
+SUMMARY:Sun Quincunx Uranus
+TRANSP:TRANSPARENT
+UID:h8d2rno52v1juku5ibakt05rds@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241218
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:183ceup6i5p7ejpr9j9tgev0lk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241015T145800Z
+DTSTART:20241015T145800Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:jsou04f782s77t3f41k47isadg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Enters Capricorn - Seek enduring relationships\, solid and secure personal or business partnerships. Be responsible with your money and possessions.
+DTEND:20241111T182500Z
+DTSTART:20241111T182500Z
+SUMMARY:Venus Enters Capricorn
+TRANSP:TRANSPARENT
+UID:m4s6155j6qk0iqivmgblu47mqg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Opposite Jupiter\nWant to party? Resist the urge to be distracted. Now is the time to discover your true heart's desire. This could be a person\, a vocation\, or an artistic hobby. 
+DTEND:20241103T152400Z
+DTSTART:20241103T152400Z
+SUMMARY:Venus Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:jt5dg9gdv33o27sksakhu0bdk4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Neptune\nThe use of imagination. Accurate intuitive thinking. Appreciation of subtleties. Artistic appreciation. Vision.
+DTEND:20241101T003300Z
+DTSTART:20241101T003300Z
+SUMMARY:Mercury Trine Neptune
+TRANSP:TRANSPARENT
+UID:8i0affnoqpnihp0272u4vd0mig@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Conjunct Mercury\nThis is an auspicious time for communicating and writing. Assert yourself with clarity. 
+DTEND:20241206T021700Z
+DTSTART:20241206T021700Z
+SUMMARY:Sun Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:1fnbon374ekjshig0jnsp9di9g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Uranus\nLife is a little tense right now. Avoid willful behavior. Remain open to new possibilities and all will be revealed.
+DTEND:20241130T013200Z
+DTSTART:20241130T013200Z
+SUMMARY:Moon Opposite Uranus
+TRANSP:TRANSPARENT
+UID:ea1d1mvllloc7a8uoidl9ip5ts@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240901
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:l9uag9c9otlnvph1mscqvgf48k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Quincunx Mars - A good time for competition rather than co-operation. So solve those problems but don't create them!
+DTEND:20241225T045900Z
+DTSTART:20241225T045900Z
+SUMMARY:Sun Quincunx Mars
+TRANSP:TRANSPARENT
+UID:cj0brb3dq5ds4k3roek2773f0s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240929T033501Z
+DTSTART:20240929T033501Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:d776dhlus9h95a4jmnvfgbnum8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury goes Stationary Retrograde
+DTEND:20241126T024200Z
+DTSTART:20241126T024200Z
+SUMMARY:Mercury goes Retrograde
+TRANSP:TRANSPARENT
+UID:l2eo2oqs45go339u5jiaf642b0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Uranus\nYou are full of bright ideas. Try to stand back and observe the truth rather than force your ideas on others.
+DTEND:20241011T171000Z
+DTSTART:20241011T171000Z
+SUMMARY:Mercury Quincunx Uranus
+TRANSP:TRANSPARENT
+UID:sg7jhijjt2ngnkjfgn84hdk640@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241129T020600Z
+DTSTART:20241129T020600Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:vmeq9bmg2rt10ea18790ge0p0c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241123
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:nni8crms93b3bl7liivqdbi6e4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241103T045001Z
+DTSTART:20241103T045001Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:n379q2oee8kegv7f6efg0v4cj0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241209T035900Z
+DTSTART:20241209T035900Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:6qhgqg0duv0hnp99pe9te4ptpg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241104T061800Z
+DTSTART:20241104T061800Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:f4ae0tc2inishv0cu247p2rolo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Enters Sagittarius - Share adventure with your partner. Enjoy relating to people from all walks of life. Be wary of overspending.
+DTEND:20241017T192800Z
+DTSTART:20241017T192800Z
+SUMMARY:Venus Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:oncu4rpagh5ksoi1r490cvqa5s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241111T130600Z
+DTSTART:20241111T130600Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:afbd9i51ktd1nun9e2cgp716ug@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240924T115801Z
+DTSTART:20240924T115801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:e31eb5njtlq9h9q8imhqhb5td4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241226T123000Z
+DTSTART:20241226T123000Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:afkf24vrgmctms1t77clql5sq0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241205T045500Z
+DTSTART:20241205T045500Z
+SUMMARY:Moon Conjunct Pluto
+TRANSP:TRANSPARENT
+UID:924avulnasvgbdqaiidm8cbh0o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+DTEND:20240912T023700Z
+DTSTART:20240912T023700Z
+SUMMARY:Moon Enters Capricorn
+TRANSP:TRANSPARENT
+UID:2puhih3ah04cp4cr2m893ub3n4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+SUMMARY:Moon in Cancer
+TRANSP:TRANSPARENT
+UID:5oc8ukeb6dno096vh948pqipg0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241006T194600Z
+DTSTART:20241006T194600Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:j7dcgde294n9ou19mf94rbu9pk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20240908T142800Z
+DTSTART:20240908T142800Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:rqgolob9qofhdes495ne2cn9d8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241224T104300Z
+DTSTART:20241224T104300Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:j765op3atcuj469hivft1114eo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241008T170900Z
+DTSTART:20241008T170900Z
+SUMMARY:Moon Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:h1jhbdu2u2c2p071lf8ce4v1i0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241102
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+SUMMARY:Moon in Scorpio
+TRANSP:TRANSPARENT
+UID:to14m57p7prkrnhpbbq3m1dn9k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Uranus\nLife is a little tense right now. Avoid willful behavior. Remain open to new possibilities and all will be revealed.
+DTEND:20241006T170800Z
+DTSTART:20241006T170800Z
+SUMMARY:Moon Opposite Uranus
+TRANSP:TRANSPARENT
+UID:3csvcqve82v87j05as3sv6f32o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241019T193301Z
+DTSTART:20241019T193301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:tipj7qarp23sj0f4s5i2kfdmbc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241115T212800Z
+DTSTART:20241115T212800Z
+SUMMARY:Full Moon - 24 Taurus
+TRANSP:TRANSPARENT
+UID:9ik42pkvqid8a79psbhe3p0po4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20240911T000100Z
+DTSTART:20240911T000100Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:psudabnormlvcm9c21nqd68ijs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241010
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:353jugngmne1oujp4ujr7i9ldk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities.
+DTEND:20241019T141000Z
+DTSTART:20241019T141000Z
+SUMMARY:Moon Conjunct Uranus
+TRANSP:TRANSPARENT
+UID:illfq73ugho1kvif2ltgbjhp34@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240918T090201Z
+DTSTART:20240918T090201Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:pepqhgpo97i9qpv36odd9asl4c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241214T153300Z
+DTSTART:20241214T153300Z
+SUMMARY:Moon Square Saturn
+TRANSP:TRANSPARENT
+UID:aco8t2qj7irp5mehmeq03pl3u8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Quincunx Mars\nFeeling tense? It is time to discover your life's passion. This could be a person or a vocation or a creative hobby.
+DTEND:20241114T080100Z
+DTSTART:20241114T080100Z
+SUMMARY:Venus Quincunx Mars
+TRANSP:TRANSPARENT
+UID:o848hlg1jrf5u31brh0sb50ej0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mars\nAvoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241108T011500Z
+DTSTART:20241108T011500Z
+SUMMARY:Moon Opposite Mars
+TRANSP:TRANSPARENT
+UID:qhqpj2ds943dhgk41f137l4d3c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20240924T115800Z
+DTSTART:20240924T115800Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:sd64u446ovt0ujacioog6dcn5c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20240911T060500Z
+DTSTART:20240911T060500Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:svsa7ljimfr9i225n76un816kc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241221T115400Z
+DTSTART:20241221T115400Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:3q15njgt7eofo3gpifu0ob6b54@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Cancer - Concentrate on home and family now. Undertake activities that nurture yourself and your loved ones.
+DTEND:20241118T084900Z
+DTSTART:20241118T084900Z
+SUMMARY:Moon Enters Cancer
+TRANSP:TRANSPARENT
+UID:6bjmckcfc7ng1sha22g0rdu464@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241224T104301Z
+DTSTART:20241224T104301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:4cqrrmoat0gsb2n342auqacqfk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Neptune\nOverstimulated imagination. Subtle perceptions. Right brain (intuitive) thinking. Confusion. Misperception. Deceit.
+DTEND:20240925T110600Z
+DTSTART:20240925T110600Z
+SUMMARY:Mercury Opposite Neptune
+TRANSP:TRANSPARENT
+UID:8jm3a03vv8koiprp7jjvllhddc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20240918T045200Z
+DTSTART:20240918T045200Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:50gt4rm9sc148kp096rlsohf04@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241106T191100Z
+DTSTART:20241106T191100Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:iglppd6ugpjis8th3gngonmt2c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Enters Sagittarius - Seek adventure. Broaden your horizons. Reach for the stars.
+DTEND:20241121T195600Z
+DTSTART:20241121T195600Z
+SUMMARY:Sun Enters Sagittarius
+TRANSP:TRANSPARENT
+UID:u0f332kqs7kl23u9k8rcm14bpg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Square Neptune\nTry to avoid life changing decisions as you are quite impressionable right now.  Instead watch an inspirational film or visit an art gallery.
+DTEND:20241109T131500Z
+DTSTART:20241109T131500Z
+SUMMARY:Venus Square Neptune
+TRANSP:TRANSPARENT
+UID:eemvsjm6hi5k7ve9bp7ser2qdc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20240913T170000Z
+DTSTART:20240913T170000Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:k4dveg241hcv94qpn4mjm4tnqs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Uranus goes Stationary Retrograde
+DTEND:20240901T151700Z
+DTSTART:20240901T151700Z
+SUMMARY:Uranus goes Retrograde
+TRANSP:TRANSPARENT
+UID:f2irae6bjd8a2i12vkp5d6d6qk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241216T183300Z
+DTSTART:20241216T183300Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:hdlshnsmgrb05iohabtt077iog@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241210T051800Z
+DTSTART:20241210T051800Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:lte63a83v1ndjqbs9h9744617g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20240904T140400Z
+DTSTART:20240904T140400Z
+SUMMARY:Moon Opposite Neptune
+TRANSP:TRANSPARENT
+UID:jamju8ctp1he1531tuihalp42o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241014
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+SUMMARY:Moon in Pisces
+TRANSP:TRANSPARENT
+UID:75dadb0q48ath7lq574a5j7t40@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20240905T091200Z
+DTSTART:20240905T091200Z
+SUMMARY:Moon Conjunct Venus
+TRANSP:TRANSPARENT
+UID:vthuk2fijen47ndu795486r8hs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+SUMMARY:Moon in Taurus
+TRANSP:TRANSPARENT
+UID:dmf8rv795lrmjptv52vcpru2c8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241229T030000Z
+DTSTART:20241229T030000Z
+SUMMARY:Moon Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:tvhttrn9li33nurj6ntnb03ha0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241028T202300Z
+DTSTART:20241028T202300Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:gndlu85i2lsikkm6b23b84i3u0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240916T210200Z
+DTSTART:20240916T210200Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:p5a5uuq9rcqannnrcf44hk14g0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+SUMMARY:Moon in Taurus
+TRANSP:TRANSPARENT
+UID:1n2k0hbj9dek4c766a5g01oa9g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241025
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Leo - Time to lighten up and have some fun. Be creative and childlike. Enjoy life and save the chores for another day.
+SUMMARY:Moon in Leo
+TRANSP:TRANSPARENT
+UID:r1g0hogi9qnflq23scrfruq9sc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Taurus - Establish routines. Time for stability and security. Not ideal for new activities. Consolidate existing projects.
+DTEND:20240920T090200Z
+DTSTART:20240920T090200Z
+SUMMARY:Moon Enters Taurus
+TRANSP:TRANSPARENT
+UID:uf7jnjh10v5ao9un2tmulbrphg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Saturn\nA pause in your social calendar helps you reassess your friendships and more serious relationships.
+DTEND:20241004T170300Z
+DTSTART:20241004T170300Z
+SUMMARY:Venus Trine Saturn
+TRANSP:TRANSPARENT
+UID:b92dchtlocs0v1l369cq7vpa9o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Square Mars - A good time for competition rather than co-operation. So solve those problems but don't create them!
+DTEND:20241014T081500Z
+DTSTART:20241014T081500Z
+SUMMARY:Sun Square Mars
+TRANSP:TRANSPARENT
+UID:vn4l8hiqtvg89jjalefesb8c8s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241101T191900Z
+DTSTART:20241101T191900Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:71pf4uvlr9560g7tnkqlcssc68@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241015T074000Z
+DTSTART:20241015T074000Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:vk2t10ogf0e1s5slns226ve94k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241222T204300Z
+DTSTART:20241222T204300Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:b2unmj3c0ie51926gofde02otc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Pluto\nTruthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241218T004900Z
+DTSTART:20241218T004900Z
+SUMMARY:Moon Opposite Pluto
+TRANSP:TRANSPARENT
+UID:dojuq93llthbrnre40e35e3t3s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+SUMMARY:Moon in Libra
+TRANSP:TRANSPARENT
+UID:kgn8mtp4tpri07jg8kkv781ugc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241004T104001Z
+DTSTART:20241004T104001Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:ggf8hbd823bsqg7fneu5t5oqok@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241110T221900Z
+DTSTART:20241110T221900Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:lbcv0mi415qvnpbmvseqh1dfr4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20240917T101000Z
+DTSTART:20240917T101000Z
+SUMMARY:Moon Conjunct Saturn
+TRANSP:TRANSPARENT
+UID:3d5vm4sgjgnqu0pgjfm8ij39uk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241109T101100Z
+DTSTART:20241109T101100Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:jmfedsu4k2e20hdq9nr0v1t4oc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241019T095900Z
+DTSTART:20241019T095900Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:rm8c7jaqtp5b7fo2fqr7sqrijc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:0ld34kjrc1hc4fv16qblqnaif0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+DTEND:20241128T002000Z
+DTSTART:20241128T002000Z
+SUMMARY:Moon Enters Scorpio
+TRANSP:TRANSPARENT
+UID:kvpmuvitj2qk8nqn8jrrrqo8ic@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Mars - It is time to discover your passion. What is your heart's desire? This could be a person or a vocation or a creative hobby. Dig deep.
+DTEND:20241008T102100Z
+DTSTART:20241008T102100Z
+SUMMARY:Venus Trine Mars
+TRANSP:TRANSPARENT
+UID:gva0ub6rp2qfafjur8u5ouql88@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Sextile Uranus\nAt last you see the light. You are able to breakthrough obstacles in innovative ways. You are a dynamic leader.
+DTEND:20241025T001200Z
+DTSTART:20241025T001200Z
+SUMMARY:Mars Sextile Uranus
+TRANSP:TRANSPARENT
+UID:r77giumfl9532p7a99a7h68ut0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Mars\nImpulsive reactions. Fast pace. Trouble\, problems and irritations. Mechanical breakdowns. Arguments and conflicts.
+DTEND:20241006T063600Z
+DTSTART:20241006T063600Z
+SUMMARY:Mercury Square Mars
+TRANSP:TRANSPARENT
+UID:rgl6hq683c69joaajf1psitfuo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Saturn\nNarrow\, focused thinking. Exclusion. Limitations in transport or communication. Overly exacting judgments. Delays.
+DTEND:20241227T072800Z
+DTSTART:20241227T072800Z
+SUMMARY:Mercury Square Saturn
+TRANSP:TRANSPARENT
+UID:ipis4lebjhokqa8n94v9mdhrsk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241011T125300Z
+DTSTART:20241011T125300Z
+SUMMARY:Moon Sextile Neptune
+TRANSP:TRANSPARENT
+UID:859noicob3vfs9uo534418sujo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Pluto - Truthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241019T193300Z
+DTSTART:20241019T193300Z
+SUMMARY:Moon Trine Pluto
+TRANSP:TRANSPARENT
+UID:3bn0vntc6jvisrvlkvr8fkcc7o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240914T073401Z
+DTSTART:20240914T073401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:7n9s5ig2d2ostgafrj72o1paj0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241203
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+SUMMARY:Moon in Capricorn
+TRANSP:TRANSPARENT
+UID:g15sdfrcgdsghkhnp84ilkehvg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Square Uranus\nAn exciting creative person or project suddenly comes to light creating a little tension. Your path is unpredictable. Go with the flow.
+DTEND:20241228T074100Z
+DTSTART:20241228T074100Z
+SUMMARY:Venus Square Uranus
+TRANSP:TRANSPARENT
+UID:09scr4351afpjo8kns8p9t8jh8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241105T102301Z
+DTSTART:20241105T102301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:sshg4d6jg3k20nle8m8amoqa20@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241103T063600Z
+DTSTART:20241103T063600Z
+SUMMARY:Moon Conjunct Mercury
+TRANSP:TRANSPARENT
+UID:t398ed43em1p0pkdf2jk43hfj0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Neptune goes Stationary Direct
+DTEND:20241207T234200Z
+DTSTART:20241207T234200Z
+SUMMARY:Neptune goes Direct
+TRANSP:TRANSPARENT
+UID:787aobtpvttkjvnboljqhln8ro@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241122T131400Z
+DTSTART:20241122T131400Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:h3628os0l755fd72h0j13c07is@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Saturn goes Stationary Direct
+DTEND:20241115T142000Z
+DTSTART:20241115T142000Z
+SUMMARY:Saturn goes Direct
+TRANSP:TRANSPARENT
+UID:jvskivslsnh11k2hc059ht8nn8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241214T025800Z
+DTSTART:20241214T025800Z
+SUMMARY:Moon Sextile Mars
+TRANSP:TRANSPARENT
+UID:mf6h8h2fo5gaaenqfvblr576eg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Opposite Pluto\nYou have energy fit to burst. Direct this into positive pursuits. Don't push others. Strategize. Actions now will have results.
+DTEND:20241103T113700Z
+DTSTART:20241103T113700Z
+SUMMARY:Mars Opposite Pluto
+TRANSP:TRANSPARENT
+UID:e03s4ksapurnvhf48r50q6567s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241031T165601Z
+DTSTART:20241031T165601Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:cqo88gdnnntcroaqg7h7ls7818@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241103T001900Z
+DTSTART:20241103T001900Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:77dprngeivebheavruevfm5rr8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241118T040801Z
+DTSTART:20241118T040801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:275aiah5bj14fbdg9t2lqk4m10@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241128T114800Z
+DTSTART:20241128T114800Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:v0u1mfvqr5a19dnki7lfrop4a4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241008T175300Z
+DTSTART:20241008T175300Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:8415u3vggo044tndtt2lg98vlc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Opposite Jupiter\nYou are confident and optimistic. Make the most of this sunny period to expand your horizons but don't go over the top.
+DTEND:20241207T205700Z
+DTSTART:20241207T205700Z
+SUMMARY:Sun Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:h8504coh0bk7ojp24q65ka9538@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+DTEND:20241213T172100Z
+DTSTART:20241213T172100Z
+SUMMARY:Moon Enters Gemini
+TRANSP:TRANSPARENT
+UID:qvdt6n9j6ikbqs4d1s4kmmtbh4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Jupiter\nMentally pushing the limits -- overassimilation. Interest in learning and travel. Overconfident judgments. Opinions.
+DTEND:20240921T084900Z
+DTSTART:20240921T084900Z
+SUMMARY:Mercury Square Jupiter
+TRANSP:TRANSPARENT
+UID:ecu7k14hk5rf3vkikf1qju2up4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20240910T224700Z
+DTSTART:20240910T224700Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:maolpo31fd9ij591d67hi65d9s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241009T055300Z
+DTSTART:20241009T055300Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:ju9gh7g198ri70bf20eem0ntm8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241206T055500Z
+DTSTART:20241206T055500Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:926vdovimcpkaqt9l0drpsfh4c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241007
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:u3ciq55q758rd2pmbqppap8g1s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241227T142301Z
+DTSTART:20241227T142301Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:6h5g0hrcmdd51jmshh4a64mi7o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mars Enters Leo - Time to express your personal creativity and make an impact. Be assertive and playful\, rather than arrogant.
+DTEND:20241104T040900Z
+DTSTART:20241104T040900Z
+SUMMARY:Mars Enters Leo
+TRANSP:TRANSPARENT
+UID:l1r6j9psr5hihlm0vvv8v5k1u8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+DTEND:20240922T102400Z
+DTSTART:20240922T102400Z
+SUMMARY:Moon Enters Gemini
+TRANSP:TRANSPARENT
+UID:s3kdj2c4h4kt3k0bf0jjq3eero@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Venus - Ain't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20241124T042100Z
+DTSTART:20241124T042100Z
+SUMMARY:Moon Trine Venus
+TRANSP:TRANSPARENT
+UID:k9468nisumvjme410g3j9bm0vk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Uranus\nIntensity of mind. Experimental attitude. Expression of radical or unusual viewpoints. Technical interest. Inventiveness.
+DTEND:20240924T172600Z
+DTSTART:20240924T172600Z
+SUMMARY:Mercury Trine Uranus
+TRANSP:TRANSPARENT
+UID:6b92nq7aujmah4quu47l8knej8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aquarius - Hobbies\, clubs and groups may demand attention now. It is time to build networks and co-operate. Humanitarian pursuits are highlighted.
+DTEND:20241107T225700Z
+DTSTART:20241107T225700Z
+SUMMARY:Moon Enters Aquarius
+TRANSP:TRANSPARENT
+UID:2jsnk0ocksl1ci4ivg04rh18kc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities.
+DTEND:20241213T074800Z
+DTSTART:20241213T074800Z
+SUMMARY:Moon Conjunct Uranus
+TRANSP:TRANSPARENT
+UID:6jt6re3rnu1mvpr9c6h2v7q4m8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Sun Enters Scorpio - Avoid dramas and secrets. Reflect on the deeper issues in life. Follow your passion.
+DTEND:20241022T221400Z
+DTSTART:20241022T221400Z
+SUMMARY:Sun Enters Scorpio
+TRANSP:TRANSPARENT
+UID:gb0hrctcr5ko77qc2usd24ksec@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241120T084500Z
+DTSTART:20241120T084500Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:vl0j5shcrniugsksk87jmljk0k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20241030T222200Z
+DTSTART:20241030T222200Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:47r0magfqok4ij8h81o8h95rvk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241209T084401Z
+DTSTART:20241209T084401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:324j6qo5em4k30u6odpp98gnic@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mercury\nThink before you speak. Otherwise misunderstandings are likely to occur. Count to ten.
+DTEND:20241011T093400Z
+DTSTART:20241011T093400Z
+SUMMARY:Moon Square Mercury
+TRANSP:TRANSPARENT
+UID:fdsir95f0olajn9ocqma9r3hj4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20241208T152600Z
+DTSTART:20241208T152600Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:h4lnnf69rnalrnou9f2dspgc68@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20240912T002001Z
+DTSTART:20240912T002001Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:br1260j76o244098gl7ifc9uuc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241208T084300Z
+DTSTART:20241208T084300Z
+SUMMARY:Moon Conjunct Saturn
+TRANSP:TRANSPARENT
+UID:nphh9hgt0pev9otmkcgcs6qf3c@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240906T080800Z
+DTSTART:20240906T080800Z
+SUMMARY:Moon Trine Jupiter
+TRANSP:TRANSPARENT
+UID:v9lokksb5386su6hgosrffua50@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Conjunct Mars\nCourage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20240925T123900Z
+DTSTART:20240925T123900Z
+SUMMARY:Moon Conjunct Mars
+TRANSP:TRANSPARENT
+UID:0s2hmrsosk2rghqkkd3kjgai5o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Quincunx Pluto\nIt is time to face a few home truths. Dig deep and be honest. Then you are ready to make some important decisions.
+DTEND:20240909T045400Z
+DTSTART:20240909T045400Z
+SUMMARY:Mercury Quincunx Pluto
+TRANSP:TRANSPARENT
+UID:35jbctt55gkllhis4hk9n0bdlo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20240903T183400Z
+DTSTART:20240903T183400Z
+SUMMARY:Moon Square Jupiter
+TRANSP:TRANSPARENT
+UID:dpqar3iehq7g008lbbm0o70irk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+DTEND:20241125T111900Z
+DTSTART:20241125T111900Z
+SUMMARY:Moon Enters Libra
+TRANSP:TRANSPARENT
+UID:8ooqf0rjp1con2phcnma10fcks@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Libra - Seek peace and harmony. Focus on your marriage or pursuit of a potential partner. Socialize. Enjoy artistic pursuits.
+DTEND:20241222T190700Z
+DTSTART:20241222T190700Z
+SUMMARY:Moon Enters Libra
+TRANSP:TRANSPARENT
+UID:n2a1c8e0lnvlg0enhnd310s3f0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Scorpio - Contemplate the deeper things in life. Avoid unnecessary conflict. Tune in to your intuition.
+DTEND:20241031T172900Z
+DTSTART:20241031T172900Z
+SUMMARY:Moon Enters Scorpio
+TRANSP:TRANSPARENT
+UID:9uqbner89rlrvbr0gbdiqgn97o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241212T014900Z
+DTSTART:20241212T014900Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:ojc1skvfeem4bcfpmbpcb06k70@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Square Uranus\nMental tension. Fixation on one point of view -- rigidity of mind. Radical views challenged. Interrupted communications.
+DTEND:20240907T042000Z
+DTSTART:20240907T042000Z
+SUMMARY:Mercury Square Uranus
+TRANSP:TRANSPARENT
+UID:eqavcoliaio540eas0k0641tr8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Venus\nAin't love grand! Affection\, love and romance are in the air. Smile\, laugh and enjoy!
+DTEND:20240930T024900Z
+DTSTART:20240930T024900Z
+SUMMARY:Moon Sextile Venus
+TRANSP:TRANSPARENT
+UID:tg3qf669rb98ispdhsn1voh7dc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241002T184900Z
+DTSTART:20241002T184900Z
+SUMMARY:New Moon Solar Eclipse - 10 Libra
+TRANSP:TRANSPARENT
+UID:ufqsp1f4l94mprts6jhmu0jtgo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20240904T155900Z
+DTSTART:20240904T155900Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:kmvig8pkbtiv5j6u1op9i07bs4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Uranus\nBe open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20240926T170200Z
+DTSTART:20240926T170200Z
+SUMMARY:Moon Sextile Uranus
+TRANSP:TRANSPARENT
+UID:hdpgi3jpka8i9ltjn3piegr7dc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241130T232300Z
+DTSTART:20241130T232300Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:p35c7eckiddgnua0th6i7aho7k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Aries - Time to begin new projects. Exercise patience and selflessness where possible. Look out for new opportunities.
+DTEND:20241112T062500Z
+DTSTART:20241112T062500Z
+SUMMARY:Moon Enters Aries
+TRANSP:TRANSPARENT
+UID:evksi17cqufvdm3h2advakdi8o@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Pisces - Slow down and rest. Pay attention to the subtle areas of your life - creativity\, philanthropy\, spirituality\, and artistry. Trust your intuition.
+SUMMARY:Moon in Pisces
+TRANSP:TRANSPARENT
+UID:mk5u00rhrtmgras0qps8m90nhk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Opposite Mars\nFeeling tense? It is time to discover your life's passion. This could be a person or a vocation or a creative hobby.
+DTEND:20241212T104500Z
+DTSTART:20241212T104500Z
+SUMMARY:Venus Opposite Mars
+TRANSP:TRANSPARENT
+UID:e9vjh58i749qvmh6mb9op7jotg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Saturn\nPatience is a virtue right now. Otherwise you might succumb to feelings of frustration and sadness.  All good things come to those who wait.
+DTEND:20241124T002300Z
+DTSTART:20241124T002300Z
+SUMMARY:Moon Opposite Saturn
+TRANSP:TRANSPARENT
+UID:04hnom9c6ivsuk9iv357m6b29g@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241013T195800Z
+DTSTART:20241013T195800Z
+SUMMARY:Moon Trine Mercury
+TRANSP:TRANSPARENT
+UID:egk9uop4vi55qcrqurfdc7k96s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241210T221300Z
+DTSTART:20241210T221300Z
+SUMMARY:Moon Trine Sun
+TRANSP:TRANSPARENT
+UID:2hhdgjlfe17tqq5s2o3unn8oc0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20241125T053400Z
+DTSTART:20241125T053400Z
+SUMMARY:Moon Opposite Neptune
+TRANSP:TRANSPARENT
+UID:u6909ntjucovfitkp8s0vf6qgc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Neptune\nFeeling out of sorts and don't know why? Relax and listen to some inspirational music. The feelings will soon fade away.
+DTEND:20240912T002000Z
+DTSTART:20240912T002000Z
+SUMMARY:Moon Square Neptune
+TRANSP:TRANSPARENT
+UID:b8svikbvcjksd75mvfjkug48c4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Mercury\nIdeas flow freely. You express both your feelings and your thoughts with clarity. An excellent time for co-operative projects.
+DTEND:20241127T091400Z
+DTSTART:20241127T091400Z
+SUMMARY:Moon Sextile Mercury
+TRANSP:TRANSPARENT
+UID:9oprspfhju801kdonv00jrt6l4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Neptune\nThe Angels are smiling on you. This is a feel good time if you relax and tune into the subtle aspects of life - art\, nature\, beauty\, dreams and spiritual realms.
+DTEND:20241024T005900Z
+DTSTART:20241024T005900Z
+SUMMARY:Moon Trine Neptune
+TRANSP:TRANSPARENT
+UID:3m0emc9jj621tto33v8gg2n0ic@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon in Capricorn - Consolidate. Pay attention to the foundations of life. Repair and re-structure. Attend to financial matters. Make solid plans.
+DTEND:20241202T210800Z
+DTSTART:20241202T210800Z
+SUMMARY:Moon Enters Capricorn
+TRANSP:TRANSPARENT
+UID:0gl8q4r8j70522di9fni6eui6k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Gemini - New ideas abound right now. Make the most of opportunities that come along\, but learn to discriminate. Communications are vital.
+SUMMARY:Moon in Gemini
+TRANSP:TRANSPARENT
+UID:j3f5gfrpoem85o3ud946pur09s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240903
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Virgo - Time for chores. Tidy up and get organized. Schedule that health checkup. Start that gym routine. Attend to details.
+SUMMARY:Moon in Virgo
+TRANSP:TRANSPARENT
+UID:lf4hbrr1amsq55ckjfjisbh3kk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DTEND:20241201T062100Z
+DTSTART:20241201T062100Z
+SUMMARY:New Moon - 9 Sagittarius
+TRANSP:TRANSPARENT
+UID:26e2sj1stv7c7l3tnq8mlr53t4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Trine Neptune\nFeel the need to escape to a romantic island getaway? Follow the urge even if it is limited to a luxurious bath or a trip to the local beach.
+DTEND:20241016T004800Z
+DTSTART:20241016T004800Z
+SUMMARY:Venus Trine Neptune
+TRANSP:TRANSPARENT
+UID:2s5mmbceqgugoto6i4h9rda6j0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241104
+DTSTAMP:20240121T091627Z
+DESCRIPTION:The Moon in Sagittarius - Expand your mind. Create space for adventure. Explore new pathways. Aim high. It is time to broaden horizons.
+SUMMARY:Moon in Sagittarius
+TRANSP:TRANSPARENT
+UID:r762sb0f9u44do1qb6i2rrn6l4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Trine Mars\nDecisiveness. Mental assertiveness. Honesty. Practical solutions. Technical skills. Fast work\, rapid progress.
+DTEND:20241102T082100Z
+DTSTART:20241102T082100Z
+SUMMARY:Mercury Trine Mars
+TRANSP:TRANSPARENT
+UID:7kemadh9slueo6ecs3h51gt450@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Venus - Your love life is a little unsettled. Try to relax and not obsess. Show restraint and reap the rewards.
+DTEND:20241112T072900Z
+DTSTART:20241112T072900Z
+SUMMARY:Moon Square Venus
+TRANSP:TRANSPARENT
+UID:2o31pepgmho7gooej9p1m21l1k@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241130T061801Z
+DTSTART:20241130T061801Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:glivuqat8649tjfujlmhmo98ps@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury goes Stationary Direct
+DTEND:20241215T205600Z
+DTSTART:20241215T205600Z
+SUMMARY:Mercury goes Direct
+TRANSP:TRANSPARENT
+UID:7civifbkofvoim4lct7e46ageg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Pluto\nTruthful feelings come to the surface. Wait for the tension to subside before taking action.
+DTEND:20241120T135200Z
+DTSTART:20241120T135200Z
+SUMMARY:Moon Opposite Pluto
+TRANSP:TRANSPARENT
+UID:k9cln0p63j9q27ub415k3orevk@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Jupiter\nA great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards.
+DTEND:20240901T060900Z
+DTSTART:20240901T060900Z
+SUMMARY:Moon Sextile Jupiter
+TRANSP:TRANSPARENT
+UID:g91n7ddt1hmchrrchi8j6lghr0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Venus Sextile Pluto\nYour interactions with others may be intense right now. Express yourself honestly and then step back and allow others to discover their truth.
+DTEND:20241017T123000Z
+DTSTART:20241017T123000Z
+SUMMARY:Venus Sextile Pluto
+TRANSP:TRANSPARENT
+UID:vkjgs8a47nu00fv5hhunnnl5qs@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Jupiter\nTime to show some restraint. Grandiosity is not appealing. Neither is excess. With a little self-control you can reap rewards.
+DTEND:20241104T203200Z
+DTSTART:20241104T203200Z
+SUMMARY:Moon Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:lvj60st5jd1a012thf9r5v9eck@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Sun - This is a harmonious time. You are feeling good\, so enjoy yourself.
+DTEND:20241008T054800Z
+DTSTART:20241008T054800Z
+SUMMARY:Moon Sextile Sun
+TRANSP:TRANSPARENT
+UID:n7ut68h5lgce38ns8f1t65oafc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Saturn - An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241005T154500Z
+DTSTART:20241005T154500Z
+SUMMARY:Moon Trine Saturn
+TRANSP:TRANSPARENT
+UID:irre5tpevbolaslsid33r892oc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Mars - Avoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241114T115600Z
+DTSTART:20241114T115600Z
+SUMMARY:Moon Square Mars
+TRANSP:TRANSPARENT
+UID:21b0q0ecpirgoq9qri7er06aa4@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Uranus\nLife is a little tense right now. Remain open to new possibilities and all will be revealed.
+DTEND:20241109T201700Z
+DTSTART:20241109T201700Z
+SUMMARY:Moon Square Uranus
+TRANSP:TRANSPARENT
+UID:saa1hepe20psga2ptki36gr90s@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Mercury Opposite Jupiter\nMentally pushing the limits -- overassimilation. Interest in learning and travel. Overconfident judgments. Opinions.
+DTEND:20241226T224700Z
+DTSTART:20241226T224700Z
+SUMMARY:Mercury Opposite Jupiter
+TRANSP:TRANSPARENT
+UID:dkh6bfogfii772v4npmpckrpko@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Mars - Courage\, mon brave! Make those quick decisions and others respect your leadership skills.
+DTEND:20241209T235800Z
+DTSTART:20241209T235800Z
+SUMMARY:Moon Trine Mars
+TRANSP:TRANSPARENT
+UID:fif8eo63jj0h0tdne8q4okgpks@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Pluto\nTruthful feelings come to the surface. It is up to you how you handle them.
+DTEND:20241112T061300Z
+DTSTART:20241112T061300Z
+SUMMARY:Moon Sextile Pluto
+TRANSP:TRANSPARENT
+UID:oc00p71ft2khq1t8vvoi348mp0@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon is void until it enters the next sign. Actions done now may not turn out the way you intend. Similar to a retrograde.
+DTEND:20241122T131401Z
+DTSTART:20241122T131401Z
+SUMMARY:Moon v/c
+TRANSP:TRANSPARENT
+UID:adsn84ld1birgjgv297u3f1fb8@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Sextile Saturn\nAn auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals.
+DTEND:20241018T171200Z
+DTSTART:20241018T171200Z
+SUMMARY:Moon Sextile Saturn
+TRANSP:TRANSPARENT
+UID:2p37vqk72267j9f9nprb7vtaoo@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Square Sun - You are feeling out of sort and not quite sure why. Try to relax and avoid conflict. The feeling will pass.
+DTEND:20240924T184900Z
+DTSTART:20240924T184900Z
+SUMMARY:Moon Square Sun
+TRANSP:TRANSPARENT
+UID:bql0nilt7ptc6b6kctsf56k2mc@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Trine Uranus - Be open to new ideas. Spontaneity is the order of the day. You are free to explore new possibilities.
+DTEND:20241107T150000Z
+DTSTART:20241107T150000Z
+SUMMARY:Moon Trine Uranus
+TRANSP:TRANSPARENT
+UID:q6b35ekv2rrc4leos6gg309qgg@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240121T091627Z
+DESCRIPTION:Moon Opposite Mars\nAvoid overreacting and rash behavior. You are not quite yourself\, but may not realize it. Be patient.
+DTEND:20241205T152700Z
+DTSTART:20241205T152700Z
+SUMMARY:Moon Opposite Mars
+TRANSP:TRANSPARENT
+UID:rlteb53ukerphcghr7sufmt52k@google.com
+END:VEVENT
+METHOD:PUBLISH
+END:VCALENDAR
